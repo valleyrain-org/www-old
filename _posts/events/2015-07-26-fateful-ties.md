@@ -2,12 +2,13 @@
 layout:    post
 title:     第十七期读书分享会（《宿缘：美国对中国的观念史》）by 刘雁 
 category: event 
-description: 作者用生动的笔触，将中美关系娓娓道来。。。 
-header-img: "img/fateful-ties.jpg"
+description: 作者用生动的笔触，将中美关系娓娓道来。。。
+header-img: "img/fatefulties.jpg"
+
 ---
 
 ##分享人: 刘雁
-资深出版人，毕业于南开大学，曾供职于商务印书馆、新星出版社、百花文艺出版社，二十余年为他人做嫁衣并乐此不疲。于2014年初移居美国，继续从事出版相关工作。
+资深出版人，毕业于南开大学。曾任职商务印书馆教科文中心主任，新星出版社及百花文艺出版社先后担任副总编。精通文史题材及知识分子研究。二十余年为他人做嫁衣并乐此不疲。于2014年初移居美国，继续从事出版相关工作。
 
 ##分享书目: Fateful Ties: A History of America’s Preoccupation with China
 宿缘：美国对中国的观念史（Fateful Ties: A History of America’s Preoccupation with China)
@@ -19,11 +20,15 @@ header-img: "img/fateful-ties.jpg"
 
 本书按照晚清、民国、二战、冷战以及当代的历史顺序，从文化、经济、宗教、地缘政治等各个方面，对美国人看待中国的观念史进行梳理。如果说两国官方的外交来往是“显性”的，那么，这本书更多地着眼于“隐性”的因素，即政治领袖的个人记录，以及企业家，艺术家，传教士，社会活动家等民间人士的活动，及其对中美关系和人们观念的影响。书中列举的，比如《Time》、《Fortune》、《People》等杂志的创办人亨利·卢斯夫妇，哥伦比亚大学教授、实用主义哲学大师杜威，意象派诗人庞德，好莱坞女演员Shirley MacLaine等等。这些生动的历史事实，在极具说服力地证明作者的论点的同时，也使得本书的阅读相当轻松愉快。
 
-##作者简介: Gordan H. Chang （张少书）
+##作者简介: Gordon H. Chang （张少书）
 斯坦福大学历史教授，东亚研究中心主任。早年毕业于普林斯顿大学（本科）和斯坦福大学（硕士及博士），主要研究方向为美国与世界，著有《Friends and Enemies: The United States, China, and the Soviet Union, 1948-1972 》(1990)，《Asian Americans and Politics: An Exploration》 (2001)《Chinese American Voices: From the Gold Rush to the Present 》(2006)等多种作品。
 
 值得一提的是，张教授的父亲张书旌，是中国现代著名画家，与徐悲鸿、柳子谷并称“金陵三杰”。 抗战时期，张书旌的画作《百鸽图》，作为中国方面的礼物赠送给罗斯福总统，成为第一张入驻白宫的中国画，现在仍收藏在罗斯福总统图书馆。
 
+##报名链接
+[FB报名地址](https://www.facebook.com/events/424933377714086/)  
+
 ##时间和地址
-7月26号，周日晚上6:00pm <br>
+7月26号，周日晚上5:00pm <br>
 @635 High Street, Palo Alto
+
