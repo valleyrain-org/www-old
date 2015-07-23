@@ -3,7 +3,6 @@ layout: home
 description: "读书活动列表"
 ---
 
-<div class="index-content event">
     <div class="tiles">
         <ul class="artical-list">
         {% for post in site.categories.event %}
@@ -14,4 +13,3 @@ description: "读书活动列表"
         {% endfor %}
         </ul>
     </div>
-</div>
