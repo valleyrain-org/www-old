@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "关于我们"
-description: "This is what I do."
+description: "关于我们团队的名称由来，宗旨和任务."
 header-img: "img/about-bg.jpg"
 pos: "4"
 ---
@@ -15,8 +15,6 @@ pos: "4"
 
 读书会自2015年3月底举办第一次读书活动以来，吸引了旧金山湾区各界知识界精英，包括有出版商，影评人，剧本创作者，纪录片拍摄者，电台读书栏目主持人等，同时还吸引了例如知名律师，画家，社会活动家，初创公司创始人等各界贤达。随着分享的书目涵盖范围日益广泛，我们的影响力也越来越大。
 
-感兴趣的朋友可以通过我们的网站来了解我们。 [www.valleyrain.org](http://www.valleyrain.org) 
-
 另外我們会定期不定期的举办增进书友之间交流的camping, deep sea fishing,hiking等各种戶外或者室內活動。
 
 诚邀喜欢读书的朋友加入我們的大家庭。
@@ -29,7 +27,6 @@ pos: "4"
 读书，在幽幽書香潛移默化的熏陶下，浑浊可以变为清雅，奢華可以变为淡泊，促狹可以变为开阔，偏激可以变为平和。
 
 ## 联系我们
-读书会网站[www.valleyrain.org](http://www.valleyrain.org)正在建设中。<br>
 也希望大家多提[意见](http://www.valleyrain.org/pages/feedback.html)。<br>
 读书会也有[Facebook Group](http://www.facebook.com/groups/ValleyRain)和[微信群](http://weixin.qq.com/g/AduHOh9yLie7It1V)供线上讨论交流。<br>
 加微信群请联系微信账号[woneng1314](http://weixin.qq.com/r/NIjVzcvEBZZ6rY_u990m)。<br>

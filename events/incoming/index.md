@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "活动预告"
-description: "This is what I do."
+description: "下期活动预告."
 header-img: "img/about-bg.jpg"
 pos: "1"
 ---
