@@ -3,13 +3,16 @@ layout: home
 description: "读书活动列表"
 ---
 
-<div class="tiles">
+
+<div class="index-content event">
+    <div class="tiles">
+        <ul class="artical-list">
         {% for post in site.categories.event %}
-                <a href="{{ post.url }}">{{ post.title }}</a>
+            <li>
+                <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
                 <div class="title-desc">{{ post.description }}</div>
+            </li>
         {% endfor %}
-
-</div><!-- /.tiles -->
-
-
-
+        </ul>
+    </div>
+</div>
