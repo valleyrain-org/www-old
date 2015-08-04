@@ -6,6 +6,17 @@ description: 所有人都幻想着国富民强，这样我等在歪果仁面前�
 header-img: img/wealthpower.jpg
 ---
 
+##报名链接
+请到Eventbrite购票
+[Eventbrite报名地址](https://www.eventbrite.com/e/wealth-and-power-by-rebecca-li-huang-tickets-17996732712)
+
+##时间和地址
+8月9号，周日晚上5:00pm <br>
+@Sofia University  
+1069 E Meadow Cir   
+Building 1059   
+Palo Alto, CA 94303
+
 ##分享人: Rebecca Li-Huang 
 
 Rebecca Li-Huang（李红波），1990年来美。来美之前就读于中国科学技术大学三年，后获得普渡大学电机硕士和芝加哥大学工商管理硕士。她曾是工程师，高级财务分析师和财务顾问， 就职摩托罗拉，雷曼兄弟和美林证券。现在是作家，著有[Green Apple Red Book《绿苹果红宝书：试错法律》](http://www.amazon.com/Green-Apple-Red-Book-Chinese-American-ebook/dp/B00U1X8G6Q/)。
@@ -27,14 +38,4 @@ John Delury, 曾任教于布朗，哥伦比亚大学，北京大学，曾是亚�
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mdKIWBnxpeA" frameborder="0" allowfullscreen></iframe>
 
-##报名链接
-请到Eventbrite购票
-[Eventbrite报名地址](https://www.eventbrite.com/e/wealth-and-power-by-rebecca-li-huang-tickets-17996732712)
-
-##时间和地址
-8月9号，周日晚上5:00pm <br>
-@Sofia University  
-1069 E Meadow Cir   
-Building 1059   
-Palo Alto, CA 94303
 
