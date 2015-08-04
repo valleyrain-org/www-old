@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "LA分会活动"
-description: "谷雨书苑LA分会活动页面"
+title: "LA分部活动"
+description: "谷雨书苑LA分部活动页面"
 pos: "3"
 ---
 

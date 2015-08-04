@@ -26,9 +26,9 @@
     - subtitle: "书评"
       subhref: "/category/books"
 
-- title: "各地分会"
+- title: "各地分部"
   subcategories:
-    - subtitle: "LA分会"
+    - subtitle: "LA分部"
       subhref: "/la"
 
 - title: "FAQ"
