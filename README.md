@@ -1,8 +1,8 @@
-#Clean Blog by Start Bootstrap - Jekyll Version
+# WWW for valleyrain.org
 
-The official Jekyll version of the Clean Blog theme by [Start Bootstrap](http://startbootstrap.com/).
+This project is for [http://www.valleyrain.org](http://www.valleyrain.org) website. Right now it is based on [Jekyll Static Site Generator](http://jekyllrb.com/) using [Clean Blog](http://startbootstrap.com/template-overviews/clean-blog/) theme.
 
-###[View Live Demo &rarr;](http://ironsummitmedia.github.io/startbootstrap-clean-blog-jekyll/)
+The website is hosted as [GitHub Project Pages](https://pages.github.com), and content is on "gh-pages" branch.
 
 ## Before You Begin
 
@@ -21,4 +21,4 @@ You can run `jekyll serve --watch` and `grunt watch` at the same time to watch f
 
 ## Support
 
-Visit Clean Blog's template overview page on Start Bootstrap at http://startbootstrap.com/template-overviews/clean-blog/ and leave a comment, email feedback@startbootstrap.com, or open an issue here on GitHub for support.
+Please open github project [issues](https://github.com/valleyrain-org/www/issues/new) or [send pull requests](https://help.github.com/articles/using-pull-requests/) if any problems are found.

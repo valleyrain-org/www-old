@@ -1,0 +1,38 @@
+- title: "活动预告"
+  href: "/events/upcoming"
+
+- title: "活动回顾"
+  href: "/events/past"
+  subcategories:
+    - subtitle: "往期回顾"
+      subhref: "/events/past"
+    - subtitle: "往期笔记"
+      subhref: "/category/notes"
+
+
+- title: "原创作品"
+  href: "/works"
+  subcategories:
+    - subtitle: "散文随笔"
+      subhref: "/category/essay"
+    - subtitle: "小说"
+      subhref: "/category/novels"
+    - subtitle: "诗歌"
+      subhref: "/category/poems"
+    - subtitle: "摄影"
+      subhref: "/category/photograph"
+    - subtitle: "影评"
+      subhref: "/category/movies"
+    - subtitle: "书评"
+      subhref: "/category/books"
+
+- title: "各地分会"
+  subcategories:
+    - subtitle: "LA分会"
+      subhref: "/la"
+
+- title: "FAQ"
+  href: "/faq"
+
+- title: "关于我们"
+  href: "/about"

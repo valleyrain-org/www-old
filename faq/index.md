@@ -1,9 +1,9 @@
 ---
 layout: page
-title: FAQs
+title: FAQ
 category: about 
-description: 读书会FAQ，包含常见问题，请仔细阅读。 
-pos: "5"
+description: 读书会FAQ，包含常见问题，请仔细阅读 
+pos: "9"
 ---
 
 ## 1. 为什么叫谷雨书苑
@@ -36,7 +36,7 @@ pos: "5"
 
 ## 8. 读书会是否提供书籍借阅
 读书会设立小型图书馆，书籍由书友提供。目前供借阅的[书籍目录](http://goo.gl/Kt9HCV) <br>
-借阅书籍请联系微信上的 畏寒蛋， KK， Tao 或 Raymond <br>
+借阅书籍请联系微信上的 畏寒蛋， KK， Tao， Yong 或 Raymond <br>
 读书会欢迎并鼓励大家把闲置书籍提供给我们的图书馆让更多的人借阅！<br>
 
 ## 9. 读书会是否提供分享图书下载
@@ -44,7 +44,7 @@ pos: "5"
 基于版权原因，读书会不提供分享书目的下载，有兴趣的朋友可以自己通过其他途径获得（例如通过搜索引擎），图书会不对其他来源的书籍版权负责。
 
 ## 10. 读书会有网站吗
-读书会网站[www.valleyrain.org](http://www.valleyrain.org)正在建设中，也希望大家多提[意见](http://www.valleyrain.org/pages/feedback.html)。读书会也有[Facebook Group](http://www.facebook.com/groups/ValleyRain)和[微信群](http://weixin.qq.com/g/AduHOh9yLie7It1V)供线上讨论交流。加微信群请联系微信账号[woneng1314](http://weixin.qq.com/r/NIjVzcvEBZZ6rY_u990m)。
+读书会网站[www.valleyrain.org](http://www.valleyrain.org)正在建设中，也希望大家多提[意见](/pages/feedback)。读书会也有[Facebook Group](http://www.facebook.com/groups/ValleyRain)和[微信群](http://weixin.qq.com/g/AduHOh9yLie7It1V)供线上讨论交流。加微信群请联系微信账号[woneng1314](http://weixin.qq.com/r/NIjVzcvEBZZ6rY_u990m), 并请务必遵守[群规则](/pages/rules)。
 
 ## 11. 没有读过书的可以来吗
 不论有没有读过书，我们欢迎任何有兴趣的朋友参加。但是我们的讨论会围绕书本进行，大家都读过书的话讨论会更有质量。
