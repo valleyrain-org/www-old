@@ -91,7 +91,7 @@ description: "欢迎来到谷雨书苑"
 
         <div class="tiles">
              <div class="col-lg-12 text-center">
-        {% for post in site.categories.event limit:5 %} 
+        {% for post in site.categories.event limit:4 %} 
 
          {% capture nowunix %}{{'now' | date: '%j'}}{% endcapture %}
          {% capture posttime %}{{post.date | date: '%j'}}{% endcapture %}
@@ -137,7 +137,7 @@ description: "欢迎来到谷雨书苑"
 
         <div class="tiles">
              <div class="col-lg-12 text-center">
-               {% for post in site.categories.poems limit:3 %}
+               {% for post in site.categories.poems limit:2 %}
                 <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
                 <div class="title-desc">{{ post.description }}</div>
                {% endfor %}
@@ -160,16 +160,6 @@ description: "欢迎来到谷雨书苑"
                 <div class="title-desc">{{ post.description }}</div>
                {% endfor %}
                 <h3><a href="category/novels">查看更多小说...</a></h3>
-             </div>
-        </div><!-- /.tiles -->
-
-        <div class="tiles">
-             <div class="col-lg-12 text-center">
-               {% for post in site.categories.photograph limit:2 %}
-                <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-                <div class="title-desc">{{ post.description }}</div>
-               {% endfor %}
-                <h3><a href="category/photograph">查看更多摄影...</a></h3>
              </div>
         </div><!-- /.tiles -->
 
