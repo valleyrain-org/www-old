@@ -18,7 +18,7 @@ description: "读书活动列表"
                 var html = '<table class="table table-striped table-bordered">';
 
                 // split into lines
-                var rows = data.split("\n");
+                var rows = data.trim().split("\n");
 
                 // parse lines
                 rows.forEach( function getvalues(ourrow) {
