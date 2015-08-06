@@ -1,6 +1,6 @@
 ---
 layout: page 
-permalink: /sf/xiaopin
+permalink: /xiaopin/
 title: 北加州短剧小品大赛 
 description: 2015北加州短剧/小品大赛即将在八月拉开帷幕，欢迎大家前来领略短剧/小品的魅力。
 ---

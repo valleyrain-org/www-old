@@ -1,10 +1,9 @@
 ---
 layout: page
-permalink: /sf/about/
+permalink: /about/
 title: "关于我们"
 description: "关于我们团队的名称由来，宗旨和任务"
 header-img: "img/logo.jpg"
-redirect_from: /about/
 ---
 
 我们的使命和任务

@@ -4,9 +4,9 @@
     {% if page.header-img contains 'http' %}
         <img src='{{ page.header-img }}' />
     {% else %}
-        <img src='/{{ page.header-img }}' />
+    <img src='{{site.baseurl}}/{{ page.header-img }}' />
     {% endif %}
 {% else %}
-    <img src='/img/logo2.jpg' />
+    <img src='{{site.baseurl}}/img/logo2.jpg' />
 {% endif %}
 </div>
