@@ -3,6 +3,7 @@ layout: page
 permalink: /la/
 title: "LA分部活动"
 description: "谷雨书苑LA分部活动页面"
+header-img: http://dtfjihky7xwic.cloudfront.net/sites/default/files/Activities/la-beauty-shot.jpg
 pos: "3"
 ---
 

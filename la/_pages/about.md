@@ -3,6 +3,7 @@ title: 谷雨书苑LA分部介绍
 layout: page
 permalink: /la/about/
 description:  谷雨书苑LA分部介绍及创办人介绍
+header-img: http://dtfjihky7xwic.cloudfront.net/sites/default/files/Activities/la-beauty-shot.jpg
 ---
 
 ##谷雨书苑Los Angeles分部介绍
