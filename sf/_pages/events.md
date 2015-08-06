@@ -13,7 +13,7 @@ permalink: /sf/events/
                 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
                 <div id="container1"></div>
                 <script >
-                $.get('../sheet1.csv', function(data) {
+                $.get('/sheet1.csv', function(data) {
 
                 // start the table
                 var html = '<table class="table table-striped table-bordered">';
