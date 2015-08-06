@@ -1,5 +1,7 @@
 # WWW for valleyrain.org
 
+[![Join the chat at https://gitter.im/valleyrain-org/www](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/valleyrain-org/www?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This project is for [http://www.valleyrain.org](http://www.valleyrain.org) website. Right now it is based on [Jekyll Static Site Generator](http://jekyllrb.com/) using [Clean Blog](http://startbootstrap.com/template-overviews/clean-blog/) theme.
 
 The website is hosted as [GitHub Project Pages](https://pages.github.com), and content is on "gh-pages" branch.
