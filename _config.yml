@@ -13,7 +13,7 @@ facebook_username:  valleyrainbook
 markdown: kramdown
 highlighter: pygments
 permalink: pretty
-paginate: 5
+include: ['_pages']
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
 # Data files URL
@@ -21,3 +21,4 @@ www-data-url: "https://cdn.rawgit.com/valleyrain-org/www-data/master"
 
 gems:
     - jekyll-sitemap
+    - jekyll-redirect-from
