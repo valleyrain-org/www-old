@@ -44,7 +44,7 @@ description: 读书会FAQ，包含常见问题，请仔细阅读
 基于版权原因，读书会不提供分享书目的下载，有兴趣的朋友可以自己通过其他途径获得（例如通过搜索引擎），图书会不对其他来源的书籍版权负责。
 
 ## 10. 读书会有网站吗
-读书会网站[www.valleyrain.org](http://www.valleyrain.org)正在建设中，也希望大家多提[意见](/pages/feedback)。读书会也有[Facebook Group](http://www.facebook.com/groups/ValleyRain)和[微信群](http://weixin.qq.com/g/AduHOh9yLie7It1V)供线上讨论交流。加微信群请联系微信账号[woneng1314](http://weixin.qq.com/r/NIjVzcvEBZZ6rY_u990m), 并请务必遵守[群规则](/pages/rules)。
+读书会网站[www.valleyrain.org](http://www.valleyrain.org)正在建设中，也希望大家多提[意见](/sf/feedback)。读书会也有[Facebook Group](http://www.facebook.com/groups/ValleyRain)和[微信群](http://weixin.qq.com/g/AduHOh9yLie7It1V)供线上讨论交流。加微信群请联系微信账号[woneng1314](http://weixin.qq.com/r/NIjVzcvEBZZ6rY_u990m), 并请务必遵守[群规则](/sf/rules)。
 
 ## 11. 没有读过书的可以来吗
 不论有没有读过书，我们欢迎任何有兴趣的朋友参加。但是我们的讨论会围绕书本进行，大家都读过书的话讨论会更有质量。

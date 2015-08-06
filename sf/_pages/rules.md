@@ -1,6 +1,6 @@
 ---
 layout: home
-permalink: /sf/wechat/rules/
+permalink: /sf/rules/
 title: 谷雨书苑微信群规
 description: 关于谷雨书苑微信群的管理规则
 ---
