@@ -2,16 +2,7 @@
 layout: default
 ---
 
-<!-- Post Header -->
-{% if page.header-img %}
-    {% if page.header-img contains 'http' %}
-        <header class="intro-header" style="background-image: url('{{ page.header-img }}')">
-    {% else %}
-        <header class="intro-header" style="background-image: url('{{site.baseurl}}/{{ page.header-img }}')">
-    {% endif %}
-{% else %}
-    <header class="intro-header" style="background-image: url('{{site.baseurl}}/{{ site.header-img }}')">
-{% endif %}
+{% include header-with-img.html %}
     <div class="container">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
