@@ -4,6 +4,7 @@ permalink: /sf/faq/
 title: FAQ
 category: about
 description: 读书会FAQ，包含常见问题，请仔细阅读
+redirect_from: /faq/
 ---
 
 ## 1. 为什么叫谷雨书苑
