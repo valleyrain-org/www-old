@@ -1,6 +1,6 @@
 ---
 layout: page 
-permalink: /sf/feedback/
+permalink: /feedback/
 title: 反馈建议 
 description: 有任何反馈建议，可以在这里提出
 ---
