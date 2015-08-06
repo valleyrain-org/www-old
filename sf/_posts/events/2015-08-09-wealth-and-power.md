@@ -4,6 +4,7 @@ title:     第十九期读书分享会（分享书目《Wealth and Power》）by
 category: event 
 description: 所有人都幻想着国富民强，这样我等在歪果仁面前也能挺直腰板，跟人据理力争，而不一直都是被人当成二等公民。两百年的革命史在Schell和Delury笔下显得简洁而又明确。每一代革命家都有他们的理想和主张，中国人就是一直在黑暗中摸索自己的道路。这是一个循序渐进的过程。
 header-img: img/wealthpower.jpg
+redirect_from: /event/2015/08/09/wealth-and-power/
 ---
 
 ##报名链接
