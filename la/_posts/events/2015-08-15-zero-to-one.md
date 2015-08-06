@@ -2,8 +2,7 @@
 title: 谷雨书苑LA分部第一期读书分享活动 (分享书目《从零到一》) by Lena
 layout: post
 description:  谷雨书苑LA分部第一期读书分享活动：《从零到一》
-category: la 
-date: 2015-08-15
+category: event
 header-img: http://dtfjihky7xwic.cloudfront.net/sites/default/files/Activities/la-beauty-shot.jpg
 ---
 

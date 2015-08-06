@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /sf/events/upcoming/
+permalink: /la/events/upcoming/
 title: "活动预告"
 description: "近期活动预告"
 pos: "1"
@@ -8,7 +8,7 @@ pos: "1"
 
 <div class="tiles">
 {% for post in site.categories.event reversed %} 
-    {% if post.url contains 'sf' %}
+    {% if post.url contains 'la' %}
         {% capture nowunix %}{{'now' | date: '%j'}}{% endcapture %}
         {% capture posttime %}{{post.date | date: '%j'}}{% endcapture %}
 

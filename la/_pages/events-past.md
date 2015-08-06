@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /sf/events/past/
+permalink: /la/events/past/
 title: "活动回顾"
 description: "过往活动回顾"
 pos: "2"
@@ -8,7 +8,7 @@ pos: "2"
 
 <div class="tiles">
 {% for post in site.categories.event %}
-    {% if post.url contains 'sf' %}
+    {% if post.url contains 'la' %}
          {% capture nowunix %}{{'now' | date: '%j'}}{% endcapture %}
          {% capture posttime %}{{post.date | date: '%j'}}{% endcapture %}
 
