@@ -1,0 +1,18 @@
+---
+layout: page
+title: "小说"
+permalink: /sf/novels/
+description: "网友原创小说"
+---
+
+
+<h3 class="section-heading text-center">小说</a></h3>
+<div class="tiles">
+{% for post in site.categories.novels %} 
+    {% if post.url contains 'sf' %}
+                <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+                <div class="title-desc">{{ post.description }}</div>
+    {% endif %}
+{% endfor %}
+</div><!-- /.tiles -->
+
