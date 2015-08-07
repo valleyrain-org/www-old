@@ -8,9 +8,8 @@ header-img: https://i.vimeocdn.com/video/435103870_640.jpg
 ---
 
 ##诗朗诵
-<a href="{{site.www-data-url}}/audio/2015-08-02-kelly-holy.mp3" class="btn btn-default btn-lg button-play">
-<span class="glyphicon glyphicon-headphones"> Kelly朗诵Holy</span>
-</a>
+
+<iframe width="50%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/218219165&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 
 ##Footnote to Howl
 
