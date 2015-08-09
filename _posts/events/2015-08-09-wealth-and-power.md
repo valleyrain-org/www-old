@@ -30,12 +30,14 @@ Rebecca 在写作[《绿苹果红宝书：试错法律》](http://www.amazon.com
 读者可以在Wealth and Power的[亚马逊网页](http://www.amazon.com/Wealth-Power-Chinas-Twenty-first-Century-ebook/dp/B00BH0VU4W)读到Rebecca最近的[详细书评](http://www.amazon.com/Wealth-Power-Chinas-Twenty-first-Century-ebook/product-reviews/B00BH0VU4W/ref=cm_cr_dp_synop?ie=UTF8&showViewpoints=0&sortBy=bySubmissionDateDescending#RDX6S1FXM4FEL)。
 
 ##作者介绍
-Orville Schell（中文名夏伟），现任总部位于纽约市的亚洲协会中美关系中心阿瑟·罗斯主任。曾在加州大学伯克利分校新闻学院担任院长和教授。
+###Orville Schell夏伟
+现任总部位于纽约市的亚洲协会中美关系中心阿瑟·罗斯主任。曾在加州大学伯克利分校新闻学院担任院长和教授。
 在夏伟出版过的十四本著作当中，九部是关于中国的，同时他还在众多纪录中国的文献编写过程当中担任了编辑工作。
 Schell毕业于哈佛大学远东历史系，后在加州大学伯克利分校获得中国研究的博士学位。
 早在上个世纪六十年代，他曾就职于福特基金会印尼办公室。作为记者，报道过印度支那战争，并在上世纪70年代中期开始，频繁游历于中国。[官方网站作者的介绍](http://sites.asiasociety.org/uschinaforum/chinese-long-bio-orville-schell/)。
 
-John Delury, 曾任教于布朗，哥伦比亚大学，北京大学，曾是亚洲协会美中关系中心副主任。他目前是韩国首尔延世大学东亚研究系助理教授。
+###John Delury鲁乐汉
+美国亚洲协会美中关系中心副主任。毕业于耶鲁大学现代中国史博士，也是一位年轻的研究朝鲜问题的专家，曾任教于布朗，哥伦比亚大学，北京大学，曾是亚洲协会美中关系中心副主任。他目前在韩国延世大学国际关系系任教，并经常在主要媒体上发表关于中国和北朝鲜的研究评论。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mdKIWBnxpeA" frameborder="0" allowfullscreen></iframe>
 
