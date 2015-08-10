@@ -4,7 +4,7 @@ title: Kelly：朗诵O Captain! my Captain!
 category: poems
 author: Whitman
 description: Kelly朗诵Walt Whitman O Captain! my Captain!
-header-img: http://library.sc.edu/zellatest/leaves150/images/opt/ocap1b.jpg  
+header-img: http://izquotes.com/quotes-pictures/quote-o-captain-my-captain-our-fearful-trip-is-done-the-ship-has-weather-d-every-rack-the-prize-we-walt-whitman-311736.jpg  
 ---
 
 ##诗朗诵音频
