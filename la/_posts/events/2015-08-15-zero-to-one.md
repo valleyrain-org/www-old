@@ -1,10 +1,12 @@
 ---
 title: 谷雨书苑LA分部第一期读书分享活动 (分享书目《从零到一》) by Lena
 layout: post
-description:  谷雨书苑LA分部第一期读书分享活动：《从零到一》
+description: 谷雨书苑LA分部第一期读书分享活动：《从零到一》
 category: event
-header-img: http://dtfjihky7xwic.cloudfront.net/sites/default/files/Activities/la-beauty-shot.jpg
+"header-img": "http://dtfjihky7xwic.cloudfront.net/sites/default/files/Activities/la-beauty-shot.jpg"
+published: true
 ---
+
 
 ## 谷雨书苑LA第一期分享会信息
 
@@ -12,7 +14,7 @@ header-img: http://dtfjihky7xwic.cloudfront.net/sites/default/files/Activities/l
 
 时间：2015年8月15日（周六）下午3：00 - 5：00
 
-地点：暂定（我们会选一个对多数人方便的地点）
+地点：1835 Camden Ave, Los Angeles, CA 90025
 
 ## 报名方法：
 
