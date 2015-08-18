@@ -9,7 +9,7 @@ published: true
 
 
 ## 分享音频
-[Zero to One by Lena]({{site.www-data-url}}/audio/2015-08-12-lena.mp3)
+[Zero to One by Lena]({{site.www-data-url}}/audio/2015-08-15-lena.mp3)
 
 ## 谷雨书苑LA第一期分享会信息
 
