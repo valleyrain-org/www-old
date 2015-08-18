@@ -15,6 +15,7 @@ published: true
 时间：2015年8月22日（周六）下午3：00 - 5：00
 
 地点：1835 Camden Ave, Los Angeles, CA 90025
+（通知：这期活动开始，我们会提供现场Skype dial in和video streaming，方便不能到现场的各位）
 
 ## 报名方法：
 
