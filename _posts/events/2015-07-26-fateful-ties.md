@@ -6,10 +6,24 @@ description: 作者用生动的笔触，将中美关系娓娓道来。。。
 header-img: "img/fateful-ties.jpg"
 ---
 
-##分享音频：
-[第一部分]({{site.www-data-url}}/audio/2015-07-26-liuyan-1.mp3)
-[第二部分]({{site.www-data-url}}/audio/2015-07-26-liuyan-2.mp3)
-[Kelly讲解诗歌部分]({{site.www-data-url}}/audio/2015-07-26-kelly-poem.mp3)
+##分享音频
+第一部分:
+<audio controls="controls">
+   <source src="{{site.www-data-url}}/audio/2015-07-26-liuyan-1.mp3" type="audio/mpeg">
+ Your browser does not support the audio element.
+ </audio>
+
+第二部分:
+<audio controls="controls">
+   <source src="{{site.www-data-url}}/audio/2015-07-26-liuyan-2.mp3" type="audio/mpeg">
+ Your browser does not support the audio element.
+ </audio>
+
+Kelly讲解诗歌部分:
+<audio controls="controls">
+   <source src="{{site.www-data-url}}/audio/2015-07-26-kelly-poem.mp3" type="audio/mpeg">
+ Your browser does not support the audio element.
+ </audio>
 
 ##分享人: 刘雁
 资深出版人，毕业于南开大学。曾任职商务印书馆教科文中心主任，新星出版社及百花文艺出版社先后担任副总编。精通文史题材及知识分子研究。二十余年为他人做嫁衣并乐此不疲。于2014年初移居美国，继续从事出版相关工作。

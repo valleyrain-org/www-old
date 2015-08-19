@@ -17,7 +17,7 @@ include: ['_pages']
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
 # Data files URL
-www-data-url: "https://cdn.rawgit.com/valleyrain-org/www-data/master"
+www-data-url: "https://raw.githubusercontent.com/valleyrain-org/www-data/master"
 
 gems:
     - jekyll-sitemap

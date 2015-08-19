@@ -9,9 +9,10 @@ published: true
 
 
 ## 分享音频
-[Zero to One by Lena]({{site.www-data-url}}/audio/2015-08-15-lena.mp3)
-
-## 谷雨书苑LA第一期分享会信息
+<audio controls="controls">
+  <source src="{{site.www-data-url}}/audio/la/2015-08-15-lena.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
 
 ## 地址和时间:
 

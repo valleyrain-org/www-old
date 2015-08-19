@@ -7,8 +7,18 @@ header-img: "img/beijing.jpg"
 ---
 
 ##分享音频：
-[第二部分]({{site.www-data-url}}/audio/2015-08-02-zhangci-2.mp3)
-[Kelly念Holy]({{site.www-data-url}}/audio/2015-08-02-kelly-holy.mp3)
+
+第二部分:
+<audio controls="controls">
+   <source src="{{site.www-data-url}}/audio/2015-08-02-zhangci-2.mp3" type="audio/mpeg">
+ Your browser does not support the audio element.
+</audio>
+
+Kelly念Holy:
+<audio controls="controls">
+   <source src="{{site.www-data-url}}/audio/2015-08-02-kelly-holy.mp3" type="audio/mpeg">
+ Your browser does not support the audio element.
+</audio>
 
 ##分享人: 张慈 May May Miller 
 
