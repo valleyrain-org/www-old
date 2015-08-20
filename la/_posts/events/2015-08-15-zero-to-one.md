@@ -52,12 +52,12 @@ http://www.amazon.com/The-Fountainhead-Ayn-Rand/dp/0451191153
 5. Ray Kurzweil's <Singularity>:
 http://www.singularity.com/
 
-文章：
+## 文章：
 1. Chamath Palihapitiya’s <How we put Facebook on the path to 1 billion users>:
 http://genius.com/Chamath-palihapitiya-how-we-put-facebook-on-the-path-to-1-billion-users-annotated
 2. Jeff Bazos' <It's more important to be kind than clever>:
 https://hbr.org/2012/08/its-more-important-to-be-kind/
-课程：
+## 课程：
 1. How to Startup a Startup:
 http://startupclass.samaltman.com/
 
