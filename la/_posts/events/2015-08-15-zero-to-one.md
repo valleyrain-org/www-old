@@ -43,27 +43,20 @@ Paypal的联合创始人和CEO, 硅谷极负盛名的风投家。2004年借了50
 更重要的是，作为谷雨LA第一期活动，我们想听到大家对于谷雨LA未来的期冀，以及我们怎样可以更好的为大家服务--你们是那无限可能的0前面那个重要的1！
 
 ## 相关分享书籍：
-1. Eric Ries's 《*Lean Startup*》:<br>
-   <http://theleanstartup.com/>
+1. Eric Ries's [《*The Lean Startup*》](http://theleanstartup.com/)
 
-2. William Deresiewicz’s 《*Excellent Sheep*》:<br>
-   <http://www.amazon.com/Excellent-Sheep-Miseducation-American-Meaningful/dp/1476702721>
+2. William Deresiewicz’s [《*Excellent Sheep*》](http://www.amazon.com/Excellent-Sheep-Miseducation-American-Meaningful/dp/1476702721)
 
-3. Steven Levy's 《*In The Plex: How Google Thinks, Works, and Shapes Our Lives*》:<br>
-   <http://www.amazon.com/In-The-Plex-Google-Thinks/dp/1416596585>
+3. Steven Levy's [《*In The Plex: How Google Thinks, Works, and Shapes Our Lives*》](http://www.amazon.com/In-The-Plex-Google-Thinks/dp/1416596585)
 
-4. Ayn Rand's 《*The Fountainhead*》:<br>
-   <http://www.amazon.com/The-Fountainhead-Ayn-Rand/dp/0451191153>
+4. Ayn Rand's [《*The Fountainhead*》](http://www.amazon.com/The-Fountainhead-Ayn-Rand/dp/0451191153)
 
-5. Ray Kurzweil's 《*Singularity*》:<br>
-   <http://www.singularity.com/>
+5. Ray Kurzweil's [《*Singularity*》](http://www.singularity.com/)
 
 ## 文章：
-1. Chamath Palihapitiya’s 《*How we put Facebook on the path to 1 billion users*》:<br>
-   <http://genius.com/Chamath-palihapitiya-how-we-put-facebook-on-the-path-to-1-billion-users-annotated>
+1. Chamath Palihapitiya’s [《*How we put Facebook on the path to 1 billion users*》](http://genius.com/Chamath-palihapitiya-how-we-put-facebook-on-the-path-to-1-billion-users-annotated)
 
-2. Jeff Bazos' 《*It's more important to be kind than clever*》:<br>
-   <https://hbr.org/2012/08/its-more-important-to-be-kind/>
+2. Jeff Bazos' [《*It's more important to be kind than clever*》](https://hbr.org/2012/08/its-more-important-to-be-kind/)
 
 ## 课程：
 1. [*How to Startup a Startup*](http://startupclass.samaltman.com/)
