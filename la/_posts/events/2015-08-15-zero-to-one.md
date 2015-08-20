@@ -8,6 +8,8 @@ published: true
 ---
 
 
+
+
 ## 分享音频
 <audio controls="controls">
   <source src="{{site.www-data-url}}/audio/la/2015-08-15-lena.mp3" type="audio/mpeg">
@@ -36,31 +38,35 @@ Paypal的联合创始人和CEO, 硅谷极负盛名的风投家。2004年借了50
 ##分享人介绍：李迎
 李迎，英文名Lena。香港大学毕业后从事金融行业。2014年UCLA Anderson商学院毕业后，加入硅滩一家 Education Tech SaaS startup做产品经理和商务拓展。喜读书，爱读书。
 
-###分享人语 
-翻看着手里的Kindle, 我琢磨着第一期应该分享哪本书，有太多可以选择：历史，哲学，文学，科技，创业，科普，心理，等等。其实，这里面每一个类别都是谷雨书苑自成立以来有所涉及的。那么作为LA分部的第一期活动，需要找到一个最特别的。<Zero to One>是谷雨成立时的第一期分享书目，有里程碑的意义。同时，好书应该从不同角度分享，也需要在不同地方分享。而无论是Raymond在四个月前成立谷雨，还是今天我在LA成立谷雨的分部，都是一次从0到1的跨越。虽然成立书友会不似创业般艰辛，但其中蕴含的创办人真诚的希冀和内心的坚定，却也是一样的。因此我决定在LA的第一期也分享<Zero to One>，希望这本带给我不同视角，让我有mind-setchange的书，也可以给你带来一些新的看问题的角度和思路。我更期待在自由讨论环节，可以听到大家对于这本书不同的声音。  
+###分享人语
+翻看着手里的Kindle, 我琢磨着第一期应该分享哪本书，有太多可以选择：历史，哲学，文学，科技，创业，科普，心理，等等。其实，这里面每一个类别都是谷雨书苑自成立以来有所涉及的。那么作为LA分部的第一期活动，需要找到一个最特别的。《Zero to One》是谷雨成立时的第一期分享书目，有里程碑的意义。同时，好书应该从不同角度分享，也需要在不同地方分享。而无论是Raymond在四个月前成立谷雨，还是今天我在LA成立谷雨的分部，都是一次从0到1的跨越。虽然成立书友会不似创业般艰辛，但其中蕴含的创办人真诚的希冀和内心的坚定，却也是一样的。因此我决定在LA的第一期也分享《Zero to One》，希望这本带给我不同视角，让我有mind-setchange的书，也可以给你带来一些新的看问题的角度和思路。我更期待在自由讨论环节，可以听到大家对于这本书不同的声音。  
 更重要的是，作为谷雨LA第一期活动，我们想听到大家对于谷雨LA未来的期冀，以及我们怎样可以更好的为大家服务--你们是那无限可能的0前面那个重要的1！
 
 ## 相关分享书籍：
-1. Eric Ries's <Lean Startup>:
-http://theleanstartup.com/
-2. William Deresiewicz’s <Excellent Sheep>:
-http://www.amazon.com/Excellent-Sheep-Miseducation-American-Meaningful/dp/1476702721
-3. Steven Levy's <In The Plex: How Google Thinks, Works, and Shapes Our Lives>:
-http://www.amazon.com/In-The-Plex-Google-Thinks/dp/1416596585
-4. Ayn Rand's <The Fountainhead>:
-http://www.amazon.com/The-Fountainhead-Ayn-Rand/dp/0451191153
-5. Ray Kurzweil's <Singularity>:
-http://www.singularity.com/
+1. Eric Ries's 《*Lean Startup*》:<br>
+   <http://theleanstartup.com/>
+
+2. William Deresiewicz’s 《*Excellent Sheep*》:<br>
+   <http://www.amazon.com/Excellent-Sheep-Miseducation-American-Meaningful/dp/1476702721>
+
+3. Steven Levy's 《*In The Plex: How Google Thinks, Works, and Shapes Our Lives*》:<br>
+   <http://www.amazon.com/In-The-Plex-Google-Thinks/dp/1416596585>
+
+4. Ayn Rand's 《*The Fountainhead*》:<br>
+   <http://www.amazon.com/The-Fountainhead-Ayn-Rand/dp/0451191153>
+
+5. Ray Kurzweil's 《*Singularity*》:<br>
+   <http://www.singularity.com/>
 
 ## 文章：
-1. Chamath Palihapitiya’s <How we put Facebook on the path to 1 billion users>:
-http://genius.com/Chamath-palihapitiya-how-we-put-facebook-on-the-path-to-1-billion-users-annotated
-2. Jeff Bazos' <It's more important to be kind than clever>:
-https://hbr.org/2012/08/its-more-important-to-be-kind/
+1. Chamath Palihapitiya’s 《*How we put Facebook on the path to 1 billion users*》:<br>
+   <http://genius.com/Chamath-palihapitiya-how-we-put-facebook-on-the-path-to-1-billion-users-annotated>
+
+2. Jeff Bazos' 《*It's more important to be kind than clever*》:<br>
+   <https://hbr.org/2012/08/its-more-important-to-be-kind/>
 
 ## 课程：
-1. How to Startup a Startup:
-http://startupclass.samaltman.com/
+1. [*How to Startup a Startup*](http://startupclass.samaltman.com/)
 
 ## 鸣谢：
 
