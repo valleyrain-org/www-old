@@ -4,7 +4,7 @@ layout: post
 description: 谷雨书苑LA分部第二期读书分享活动：《拥抱战败》
 category: event 
 "header-img": "http://dtfjihky7xwic.cloudfront.net/sites/default/files/Activities/la-beauty-shot.jpg"
-published: true 
+redirect_from: "/la/event/2015/08/23/embracing-defeat/"
 ---
 
 
