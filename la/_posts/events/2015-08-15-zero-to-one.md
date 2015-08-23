@@ -61,8 +61,6 @@ Paypal的联合创始人和CEO, 硅谷极负盛名的风投家。2004年借了50
 ## 课程：
 1. [*How to Startup a Startup*](http://startupclass.samaltman.com/)
 
-## test
-
 ## 鸣谢：
 
 谷雨书苑旧金山硅谷总部组委会成员  
