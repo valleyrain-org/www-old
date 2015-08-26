@@ -121,11 +121,9 @@ o	美国从90年上映的《阿基拉》开始注意到日本动漫；日本有�
 o	在中国，1979年从《阿童木》开始注意到日本动漫，动漫在中国的流行也得意于传媒和互联网的发展，字幕组的贡献。 
 
 ## 分享电影及纪录片：
-1. 《野良犬》（1949） by 黑泽明
-http://v.youku.com/v_show/id_XMzMwOTM2ODA4.html 
-2. 《归来的醉汉》（1968）by 大岛渚
-3. 《疯狂的果实》（1956）by 中平康 改编自石原慎太郎小说
-http://v.youku.com/v_show/id_XMzU2ODU1NDQ=.html 
+1. 《野良犬》（1949） by 黑泽明  [(优酷视频链接)](http://v.youku.com/v_show/id_XMzMwOTM2ODA4.html)   
+2. 《归来的醉汉》（1968）by 大岛渚  
+3. 《疯狂的果实》（1956）by 中平康 改编自石原慎太郎小说 [(优酷视频链接)](http://v.youku.com/v_show/id_XMzU2ODU1NDQ=.html)  
 4. NHK纪录片：无缘社会—无缘死的冲击
 
 ## 分享书籍：
