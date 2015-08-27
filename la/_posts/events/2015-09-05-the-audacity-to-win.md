@@ -9,6 +9,7 @@ published: true
 
 
 
+
 ## 时间和地址:
 
 时间：2015年9月5日（周六）下午1：30 - 3：30
@@ -17,8 +18,9 @@ published: true
 
 ## 报名方法：
 
-请填写[Google Form](https://docs.google.com/forms/d/14suzNHWbPV_q1bsK_S8U6ugRTkmVgQF-W0EY8-2yW14/viewform)
-*如果大家想亲临现场或参加live streaming, 又或是想加入我们的Email List，都请填写Google Form。
+请填写[Google Form](https://docs.google.com/forms/d/14suzNHWbPV_q1bsK_S8U6ugRTkmVgQF-W0EY8-2yW14/viewform)。
+
+(如果大家想亲临现场或参加live streaming, 又或是想加入我们的Email List，都请填写Google Form)
 
 ## 参与方法：
 1. 亲临现场听讲解参加讨论
@@ -46,7 +48,3 @@ What It Takes--The Way to the White House, by Richard Ben Cramer
 Game Change, by John Heilemann and Mark Halperin
 
 The Fearful and the Frustrated, by Evan Osnos
-
-## 关于谷雨书苑
-
-可以访问[主页](http://www.valleyrain.org), [LA分部页面](http://www.valleyrain.org/la)正在建设中, 欢迎志愿者加入和提出修改意见。
