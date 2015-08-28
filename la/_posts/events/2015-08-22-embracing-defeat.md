@@ -2,7 +2,7 @@
 title: 谷雨书苑LA分部第二期读书分享活动（分享书目《拥抱战败》）by Lulu
 layout: post 
 description: 谷雨书苑LA分部第二期读书分享活动：《拥抱战败》
-category: event 
+category: laevent 
 "header-img": "http://dtfjihky7xwic.cloudfront.net/sites/default/files/Activities/la-beauty-shot.jpg"
 redirect_from: "/la/event/2015/08/23/embracing-defeat/"
 ---

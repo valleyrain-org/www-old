@@ -7,7 +7,7 @@ pos: "1"
 ---
 
 <div class="tiles">
-{% for post in site.categories.event reversed %} 
+{% for post in site.categories.laevent reversed %} 
     {% if post.url contains 'la' %}
         {% capture nowunix %}{{'now' | date: '%j'}}{% endcapture %}
         {% capture posttime %}{{post.date | date: '%j'}}{% endcapture %}
