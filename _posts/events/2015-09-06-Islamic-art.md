@@ -15,7 +15,7 @@ published: false
 @地址TBD
 
 ## 分享人: Lu Zhu
-竹子，非艺术史专业出身，伊斯兰艺术脑残粉。本科西班牙语专业，曾经上过U Penn教授Renata Holod两门伊斯兰艺术课。
+竹子，非艺术史专业出身，伊斯兰艺术脑残粉。本科西班牙语专业，曾经上过U Penn教授[Renata Holod](https://www.sas.upenn.edu/arthistory/people/profile/renata-holod)两门伊斯兰艺术课。
 
 ## 内容介绍
 本期内容将以西班牙境内伊斯兰宫殿（the Alhambra 阿尔罕布拉宫）作为主线，介绍古迹的同时也会涉及一些伊斯兰艺术的一些基本特点和概念。
