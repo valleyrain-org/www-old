@@ -38,7 +38,7 @@ published: true
 
 1. [阿尔罕布拉宫图片概览](https://www.flickr.com/photos/retrorocketrick/sets/72157611310573746/)
  
-2. [阿尔罕布拉宫vitual tour](http://www.aramcoworld.com/issue/200604/alhambra/)
+2. [阿尔罕布拉宫vitual tour](http://www.aramcoworld.com/issue/200604/alhambra/tourmenu.htm)
 
 3. 听讲座之前，可以利用闲暇的时候观看(5分钟)：
 BBC 西班牙艺术纪录片，关于Alhambra 的介绍从45:25开始，持续5分钟左右，前面是关于整个历史背景的介绍  

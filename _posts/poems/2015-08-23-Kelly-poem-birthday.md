@@ -37,4 +37,6 @@ header-img: img/zhuxiang.png
 诗人便唱不出他的新歌。
 </pre>
 
+8月23日，正值是谷雨书苑执行团队核心成员Kelly的生日。谷雨书苑的志愿者们为Kelly庆生，感谢Kelly长久以来的默默辛勤付出。
+
 ![birthday](/img/kellybirthday.jpg)

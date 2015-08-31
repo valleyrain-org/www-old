@@ -6,6 +6,15 @@ description: 本次读书分享活动邀请著名法律学者周大伟先生与�
 header-img: img/rulesoflaw.jpg
 ---
 
+## 分享录音
+
+录音第一部分
+
+<audio controls="controls">
+   <source src="{{site.www-data-url}}/audio/2015-08-30-zhoudawei-law-part1.mp3" type="audio/mpeg">
+ Your browser does not support the audio element.
+</audio>
+
 ## 报名链接
 [Eventbrite报名地址](https://www.eventbrite.com/e/18321454965)
 
