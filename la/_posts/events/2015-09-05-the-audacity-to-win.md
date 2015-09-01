@@ -48,3 +48,9 @@ What It Takes--The Way to the White House, by Richard Ben Cramer
 Game Change, by John Heilemann and Mark Halperin
 
 The Fearful and the Frustrated, by Evan Osnos
+
+## 关于谷雨书苑
+
+可以访问[主页](http://www.valleyrain.org), [LA分部页面](http://www.valleyrain.org/la)正在建设中, 欢迎志愿者加入和提出修改意见。
+
+
