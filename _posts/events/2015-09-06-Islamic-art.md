@@ -12,7 +12,8 @@ published: true
 
 ## 时间和地址
 9月6号，周日晚上5:00pm - 8:00pm  
-@地址TBD
+@3375 Scott Blvd, Suite 306  
+Santa Clara, CA 95054
 
 ## 分享人: Lu Zhu
 竹子，非艺术史专业出身，伊斯兰艺术脑残粉。本科西班牙语专业，曾经上过U Penn教授[Renata Holod](https://www.sas.upenn.edu/arthistory/people/profile/renata-holod)两门伊斯兰艺术课。
