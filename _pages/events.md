@@ -33,6 +33,7 @@ permalink: /events/
                 html += "<td>" + columns[1] + "</td>";
                 html += "<td>" + columns[2] + "</td>";
                 html += "<td>" + columns[3] + "</td>";
+                html += "<td>" + columns[6] + "</td>";
 
                 // close row
                 html += "</tr>";
