@@ -49,7 +49,11 @@ hr.small {
   z-index: 3;
   font-family: "微软雅黑","Arial","Helvetica","sans-serif";
 }
-.navbar-custom .navbar-brand {
+.navbar-custom .navbar-other-site {
+  font-weight: 400;
+  font-size: 16px;
+}
+.navbar-custom .navbar-current-site {
   font-weight: 800;
 }
 .navbar-custom .nav li a {

@@ -2,6 +2,11 @@
 
 {% if page.url contains '/la/' %}
     {% assign location = '/la' %}
+    {% assign la_nav = 'navbar-current-site' %}
+    {% assign main_nav = 'navbar-other-site' %}
+{% else %}
+    {% assign main_nav = 'navbar-current-site' %}
+    {% assign la_nav = 'navbar-other-site' %}
 {% endif %}
 
 <nav class="navbar navbar-default navbar-fixed-top navbar-custom" role="navigation">
@@ -14,8 +19,8 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="{{ site.baseurl }}/">{{ site.title }}</a>
-            <a class="navbar-brand" href="{{ site.baseurl }}/la">LA分部</a>
+            <a class="navbar-brand {{ main_nav }}" href="{{ site.baseurl }}/">{{ site.title }}</a>
+            <a class="navbar-brand {{ la_nav }}" href="{{ site.baseurl }}/la">LA分部</a>
         </div>
 
         <!-- Collect the nav links, forms, and other content for toggling -->
