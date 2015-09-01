@@ -2,7 +2,7 @@
 title: 谷雨书苑LA分部第三期读书分享活动 (分享书目《The Audacity to Win》) by Kevin Xu
 layout: post
 description: 美国总统是怎么选出来的？大选团队与创业有什么相似之处？
-category: laevent
+category: event
 "header-img": "http://dtfjihky7xwic.cloudfront.net/sites/default/files/Activities/la-beauty-shot.jpg"
 published: true
 ---
