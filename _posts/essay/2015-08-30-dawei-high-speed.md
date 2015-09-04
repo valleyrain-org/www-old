@@ -4,7 +4,7 @@ title: 周大伟：美国高铁建设为什么这么慢
 category: essay
 author: 周大伟 
 description: 美国修高铁为啥这么慢 
-header-img: "http://mmbiz.qpic.cn/mmbiz/VlHdouDsBTzicTdIAnwIMKDWAHozEHWlOGuRpwy4OxehybgQWsDH9quSlsttMufPBzAZ7OspfkNEA09E8G6dytA/0?tp=webp&wxfrom=5"
+header-img: 
 ---
 
 ##作者：周大伟

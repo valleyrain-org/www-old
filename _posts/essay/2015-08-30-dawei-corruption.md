@@ -4,7 +4,7 @@ title: 周大伟：腐败官员为何爱进法学院
 category: essay
 author: 周大伟 
 description:  腐败官员为何爱进法学院
-header-img: "http://mmbiz.qpic.cn/mmbiz/Um7avC8mkCvr0Sl8rZQQyXtDByrFyWuRDJJKibia8bcJHk44UjZ9VMKENabEY0zs1Q027WBiaS0gqerFKKJQ0aJ4g/0?tp=webp&wxfrom=5" 
+header-img: 
 ---
 
 ##作者：周大伟
