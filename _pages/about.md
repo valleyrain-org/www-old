@@ -6,6 +6,8 @@ description: "关于我们团队的名称由来，宗旨和任务"
 header-img: "img/logo.jpg"
 ---
 
+![img](/img/interview.jpg)
+
 我们的使命和任务
 ----------------
 
@@ -37,3 +39,6 @@ header-img: "img/logo.jpg"
 过往和将来几期分享的书目[Google doc](http://goo.gl/k8CgKM)和[文宣汇总](http://goo.gl/OTYGdA)。
 
 对谷雨书苑和网站建设有任何意见建议可以联系: [valleyrain.org@gmail.com](mailto:valleyrain.org@gmail.com)。
+
+
+
