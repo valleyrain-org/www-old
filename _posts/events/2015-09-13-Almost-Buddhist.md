@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 第二十三期读书分享会（分享题目《正见》）by Zhimin & Yunzhi
+title: 第二十四期读书分享会（分享题目《正见》）by Zhimin & Yunzhi
 category: event
 description: 藏传佛教文化分享
 published: true
