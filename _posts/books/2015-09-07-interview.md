@@ -1,15 +1,15 @@
 ---
 layout: post
-title: 谷雨书苑组织者团队接受西雅图中文电台专访 
+title: 谷雨书苑组委会团队接受西雅图中文电台专访 
 category: books 
-description: 谷雨书苑组织者团队接受西雅图中文电台专访
+description: 谷雨书苑组委会团队接受西雅图中文电台专访
 header-img: 
 ---
 
 ![img](/img/interview.jpg)
 ![img](/img/interview1.jpg)
 
-2015年9月7日下午，谷雨书苑组织者团队的部分成员在硅谷接受了西雅图中文电台[《读书观影》](http://chineseradioseattle.com/books_movies/)栏目主播[竹子](http://chineseradioseattle.com/djs/)将近45分钟的音频采访。同时谷雨书苑的发起人Raymond接受了视频专访。  
+2015年9月7日下午，谷雨书苑组委会团队的部分成员在硅谷接受了西雅图中文电台[《读书观影》](http://chineseradioseattle.com/books_movies/)栏目主播[竹子](http://chineseradioseattle.com/djs/)将近45分钟的音频采访。同时谷雨书苑的发起人Raymond接受了视频专访。  
 谷雨书苑的组织者们介绍了谷雨书苑及其名称的由来，书苑读书活动的组织形式。并对谷雨书苑的定位，以及旧金山湾区华人社区的文化现状作了探讨，同时还对谷雨书苑未来要举办的相关活动也作了一些展望。  
 节目预计在2015年9月10日晚9：30在西雅图中文电台播出（[tunein链接](http://tunein.com/radio/KKNW-1150-s33547/) )。
 
