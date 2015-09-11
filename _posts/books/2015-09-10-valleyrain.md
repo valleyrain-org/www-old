@@ -24,7 +24,12 @@ header-img: img/guyuteam.jpg
 
 ![img](/img/langchao.jpg)
 
-谷雨书苑自2015年3月底成立以来，发展至今，影响力不断壮大，感谢广大书友的大力支持，我们也会更加努力地为大家服务。
+谷雨书苑自2015年3月底成立以来，发展至今，影响力不断壮大，感谢广大书友的大力支持，我们也会更加努力地为大家服务。  
+谷雨书苑网站[www.valleyrain.org](http://www.valleyrain.org)。 
+谷雨书苑[Facebook Group](http://www.facebook.com/groups/ValleyRain)和[微信群](http://weixin.qq.com/g/AduHOh9yLie7It1V)供线上讨论交流。加微信群请联系微信账号[woneng1314](http://weixin.qq.com/r/NIjVzcvEBZZ6rY_u990m), 并请务必遵守[群规则](/rules)。  
+谷雨书苑[新浪微博](http://www.weibo.com/guyushuyuan)。谷雨书苑[推特](https://twitter.com/valleyrainbook)。
+谷雨书苑在[豆瓣同城](http://www.douban.com/event/25155904/)。  
+对谷雨书苑和网站建设有任何意见建议可以联系: [valleyrain.org@gmail.com](mailto:valleyrain.org@gmail.com)。
 
 ![img](/img/interview.jpg)
 
