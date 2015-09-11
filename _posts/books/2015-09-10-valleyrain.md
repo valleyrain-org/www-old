@@ -3,7 +3,7 @@ layout: post
 title: 【读书观影】谷雨书苑的故事 
 category: books 
 description: 谷雨书苑创始团队讲述老百姓自己的故事
-header-img: img/guyuteam.jpg
+header-img: img/citylight.jpg
 ---
 
 *"孟德斯鸠说，喜欢读书，就等于把生活中寂寞的辰光换成了巨大的享受。  
