@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 第二十二期读书分享会（分享题目《伊斯兰艺术》之西班牙伊斯兰建筑）by Lu Zhu
+title: 第二十三期读书分享会（分享题目《伊斯兰艺术》之西班牙伊斯兰建筑）by Lu Zhu
 category: event
 description: 介绍伊斯兰艺术
 published: true
