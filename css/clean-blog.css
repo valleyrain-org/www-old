@@ -380,7 +380,7 @@ form .row:first-child .floating-label-form-group {
 }
 ::-moz-selection {
   color: white;
-  text-shadow: none;
+  text-shadow: 1px 2px 5px #888;
   background: #0085a1;
 }
 ::selection {
