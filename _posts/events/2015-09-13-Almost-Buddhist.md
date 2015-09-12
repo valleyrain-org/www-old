@@ -7,6 +7,13 @@ published: true
 header-img: https://upload.wikimedia.org/wikipedia/commons/8/81/SongstenGampoandwives.jpg
 ---
 
+##Yunzhi对本期分享的介绍
+
+<audio controls="controls">
+   <source src="{{site.www-data-url}}/audio/2015-09-11-yunzhi-intro.mp3" type="audio/mpeg">
+ Your browser does not support the audio element.
+</audio>
+
 ## 报名链接
 [Eventbrite报名地址](http://www.eventbrite.com/e/18519396012)  
 由于场地有限，本次读书会限制人数，请想要来参加的朋友提早尽快报名，满额后的报名者将自动进入waitlist
