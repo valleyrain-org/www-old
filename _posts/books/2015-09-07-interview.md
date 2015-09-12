@@ -3,7 +3,7 @@ layout: post
 title: 谷雨书苑创始团队接受西雅图中文电台专访
 category: books
 description: 谷雨书苑创始团队接受西雅图中文电台专访
-header-img: 
+header-img: img/guyu.jpg 
 ---
 
 ![img](/img/interview.jpg)
