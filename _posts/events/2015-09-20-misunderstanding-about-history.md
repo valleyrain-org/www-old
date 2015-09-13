@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 第二十五期读书分享会（主讲题目《近代历史研究之难与争吵之易》）by 郭世佑
+title: 第二十五期读书分享会（主讲题目《近代中国历史研究之难与争吵之易》）by 郭世佑
 category: event
 description:  中国近代历史，史料繁多，真假难辨。左右分化，观点对立。如何能够去伪存真，去粗取精。听政法大学教授为你理清头绪。
 header-img: img/japansurrender.jpg
