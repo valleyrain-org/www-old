@@ -7,10 +7,28 @@ published: true
 header-img: https://upload.wikimedia.org/wikipedia/commons/8/81/SongstenGampoandwives.jpg
 ---
 
-##Yunzhi对本期分享的介绍
-
+##分享音频
+Yunzhi对本期分享的介绍
 <audio controls="controls">
    <source src="{{site.www-data-url}}/audio/2015-09-11-yunzhi-intro.mp3" type="audio/mpeg">
+ Your browser does not support the audio element.
+</audio>
+
+Yunzhi分享部分
+<audio controls="controls">
+   <source src="{{site.www-data-url}}/audio/2015-09-13-yunzhi.mp3" type="audio/mpeg">
+ Your browser does not support the audio element.
+</audio>
+
+Zhimin分享部分
+<audio controls="controls">
+   <source src="{{site.www-data-url}}/audio/2015-09-13-zhimin.mp3" type="audio/mpeg">
+ Your browser does not support the audio element.
+</audio>
+
+Kelly诗歌部分
+<audio controls="controls">
+   <source src="{{site.www-data-url}}/audio/2015-09-13-kelly-poem.mp3" type="audio/mpeg">
  Your browser does not support the audio element.
 </audio>
 

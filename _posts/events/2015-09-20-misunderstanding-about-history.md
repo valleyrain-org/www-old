@@ -7,7 +7,8 @@ header-img: img/japansurrender.jpg
 ---
 
 ## 报名链接
-[EventbriteTBD]()
+[Eventbrite报名链接](https://www.eventbrite.com/e/18600900795)  
+由于场地有限，本次读书会限制人数，请想要来参加的朋友提早尽快报名，满额后的报名者将自动进入waitlist
 
 ## 时间和地址
 9月20日，周日晚上5:00pm - 8:00pm  
