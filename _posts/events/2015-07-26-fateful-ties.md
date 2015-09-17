@@ -41,7 +41,7 @@ Kelly讲解诗歌部分:
 ##作者简介: Gordon H. Chang （张少书）
 斯坦福大学历史教授，东亚研究中心主任。早年毕业于普林斯顿大学（本科）和斯坦福大学（硕士及博士），主要研究方向为美国与世界，著有《Friends and Enemies: The United States, China, and the Soviet Union, 1948-1972 》(1990)，《Asian Americans and Politics: An Exploration》 (2001)《Chinese American Voices: From the Gold Rush to the Present 》(2006)等多种作品。
 
-值得一提的是，张教授的父亲张书旌，是中国现代著名画家，与徐悲鸿、柳子谷并称“金陵三杰”。 抗战时期，张书旌的画作《百鸽图》，作为中国方面的礼物赠送给罗斯福总统，成为第一张入驻白宫的中国画，现在仍收藏在罗斯福总统图书馆。
+值得一提的是，张教授的父亲张书旂，是中国现代著名画家，与徐悲鸿、柳子谷并称“金陵三杰”。 抗战时期，张书旌的画作《百鸽图》，作为中国方面的礼物赠送给罗斯福总统，成为第一张入驻白宫的中国画，现在仍收藏在罗斯福总统图书馆。
 
 ##报名链接
 [FB报名地址](https://www.facebook.com/events/424933377714086/)  
