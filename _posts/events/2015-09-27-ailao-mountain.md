@@ -4,7 +4,7 @@ title: 独立纪录片放映：哀牢山的信仰
 category: event
 description: 云南籍作家张慈在2013年回故乡哀牢山闭关写作。期间遭遇母亲自杀未遂的悲剧。在照顾母亲的过程当中，她重新建立了与母亲和故乡的关系，并找到寻求一生的信仰。 
 published: true
-header-img: img/ailaoshan.jpg 
+header-img: 
 ---
 
 ![picture](/img/ailao.jpg)
