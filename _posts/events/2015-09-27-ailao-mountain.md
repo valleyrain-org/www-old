@@ -16,9 +16,9 @@ or by calling TWIFF at 408-907-6925.
 ##协办单位: 谷雨书苑
 
 ## 时间和地址
-9月27号，周日晚上5:15pm 片长51分钟 
-@New People Cinema
-1746 Post St.
+9月27号，周日晚上5:15pm 片长51分钟   
+@New People Cinema  
+1746 Post St.  
 San Francisco, CA 94115 
 
 ## 内容介绍
