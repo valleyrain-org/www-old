@@ -47,15 +47,11 @@ Kevin Xu，Brown University本科。2008参加Obama的大选团队，之后就�
 离美国总统大选之日虽然还有一年多的时间，但因为Donald Trump的参选，吸引了很多人的关注，也使很多有争议的社会敏感问题被推到风口浪尖，尤其是美国的移民政策。竞选时，集资筹款和组织团队的过程都非常复杂，每一个候选人的胜数因此都有它的偶然性和必然性，这与企业家成功创建一个公司有很多相似之处。分享的书目虽是2008年Obama竞选的幕后故事，但读起来也像一个创业公司发展壮大的故事。作者David Plouffe是在美国政坛摸爬滚打十几年的大选高手，在成功帮助Obama两次当选总统后，被Uber挖走，管理公司一切对外的媒体公关及政策法律事务。由此可见，政治和科技，大选和创业，有着类似的基因和紧密的联系，值得我们去分析和探索。
 
 ## 相关分享书籍：
-張元 《自學歷史—名家論述導讀》
+What It Takes--The Way to the White House, by Richard Ben Cramer
 
-王振忠 《乾隆“叫魂”案：来自徽州文书的质疑》
+Game Change, by John Heilemann and Mark Halperin
 
-The Man Awakened from Dreams, by Henrietta Harrison
-沈艾娣 《梦醒子》
-
-The Death of Woman Wang, by Jonathan D. Spence
-史景迁 《王氏之死》
+The Fearful and the Frustrated, by Evan Osnos
 
 ## 关于谷雨书苑
 
