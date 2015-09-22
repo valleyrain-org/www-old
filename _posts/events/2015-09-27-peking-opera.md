@@ -8,8 +8,8 @@ header-img: img/2015-09-27/opera.jpg
 ---
 
 ## 报名链接
-[EventbriteTBD]()  
-由于场地有限，本次读书会限制人数，请想要来参加的朋友提早尽快报名，满额后的报名者将自动进入waitlist
+[Eventbrite报名链接](https://www.eventbrite.com/e/by-xiang-li-tickets-18730935733)  
+由于场地有限，本次读书会限制人数，请想要来参加的朋友提早尽快报名，满额后的报名者将自动进入waitlist。现场报名收费5块。
 
 ## 时间和地址
 9月27号，周日晚上5:00pm - 8:00pm  
@@ -31,4 +31,9 @@ Santa Clara, CA 95054
 北京市政协文史资料委员会（编） 《京剧谈往录》北京出版社  
 吴小如《京剧老生流派综说》中华书局  
 《孟小冬唱腔及为钱培荣说戏录音集粹》天津市文化艺术音像出版社  
+
+![image](/img/2015-09-27/lingren.jpg)
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/i7OYo239zTM" frameborder="0" allowfullscreen></iframe>
+
 
