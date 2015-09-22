@@ -1,5 +1,6 @@
 ---
-title: 谷雨书苑LA分部第四期读书分享活动 (分享书目《Soulstealers: The Chinese Sorcery Scare of 1768 --管窥康乾盛世中的官场与民间 》叫魂:1768年中国妖术大恐慌) by 王悠
+title: 谷雨书苑LA分部第四期读书分享活动 (分享书目《叫魂：1768年中国妖术大恐慌——管窥康乾盛世中的官场与民间》) by 王悠
+description: 叫魂：1768年中国妖术大恐慌——管窥康乾盛世中的官场与民间
 layout: post
 category: event
 "header-img": "http://dtfjihky7xwic.cloudfront.net/sites/default/files/Activities/la-beauty-shot.jpg"
@@ -7,6 +8,7 @@ published: true
 ---
 
 
+## 谷雨书苑LA第四期分享会信息
 
 ## 时间和地址:
 
@@ -26,11 +28,10 @@ published: true
 3. 我们也会在分享后会发布分享录音，敬请留意
 
 
-## 分享书目：Soulstealers: The Chinese Sorcery Scare of 1768 — 管窥康乾盛世中的官场与民间
+## 分享书目：Soulstealers: The Chinese Sorcery Scare of 1768 
 叫魂:1768年中国妖术大恐慌
 
 ## 书目作者：Philip A. Kuhn  （孔復禮/孔飞力）
-
 Philip A.Kuhn教授1933年出生于英国伦敦，1964年获得哈佛大学博士学位。当费正清1977年从哈佛大学荣休后，由己任教十年的芝加哥大学转回母校接替其空缺，任哈佛大学历史系和东亚语言文化系讲座教授。他曾担任过芝加哥大学远东语言文化系主任、哈佛大学费正清东亚研究中心主任、哈佛大学东亚研究委员会主席，曾获得包括古根汉姆学术研究奖在内的多种学术荣誉，美国艺术人文科学院院士。《叫魂》是他继《中华帝国晚期的叛乱及其敌人》后的又一力作，获“列文森中国研究最佳著作奖”，对中国史学界有深远影响。
 
 ##分享人介绍：王悠
@@ -46,6 +47,15 @@ As an overture to China's modern age, the soulstealing panic strikes one particu
 这本书揭示了中国社会的许多层，也误解了中国历史的许多事，这里，只从史学的角度做简单的分析。
 
 ## 相关分享书籍：
+張元 《自學歷史—名家論述導讀》
+
+王振忠 《乾隆“叫魂”案：来自徽州文书的质疑》
+
+The Man Awakened from Dreams, by Henrietta Harrison
+沈艾娣 《梦醒子》
+
+The Death of Woman Wang, by Jonathan D. Spence
+史景迁 《王氏之死》
 
 ## 关于谷雨书苑
 
