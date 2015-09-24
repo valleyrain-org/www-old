@@ -1,7 +1,7 @@
 ---
-title: 谷雨书苑LA分部第四期读书分享活动 (分享书目《叫魂：1768年中国妖术大恐慌——管窥康乾盛世中的官场与民间》) by 王悠
-description: 叫魂：1768年中国妖术大恐慌——管窥康乾盛世中的官场与民间
 layout: post
+title: 谷雨书苑LA分部第四期读书分享活动 (分享书目《叫魂：1768年中国妖术大恐慌》) by 王悠
+description: 叫魂：1768年中国妖术大恐慌——管窥康乾盛世中的官场与民间
 category: event
 "header-img": "http://dtfjihky7xwic.cloudfront.net/sites/default/files/Activities/la-beauty-shot.jpg"
 published: true
