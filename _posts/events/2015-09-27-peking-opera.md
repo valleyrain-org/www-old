@@ -23,8 +23,15 @@ header-img: img/2015-09-27/opera.jpg
  Your browser does not support the audio element.
 </audio>
 
+主讲人表演京剧片段《西厢记》
+
+<audio controls="controls">
+   <source src="{{site.www-data-url}}/audio/2015-09-28-lixiang-xixiangji.mp3" type="audio/mpeg">
+ Your browser does not support the audio element.
+</audio>
 
 ## 报名链接
+
 [Eventbrite报名链接](https://www.eventbrite.com/e/by-xiang-li-tickets-18730935733)  
 由于场地有限，本次读书会限制人数，请想要来参加的朋友提早尽快报名，满额后的报名者将自动进入waitlist。现场报名收费5块。
 
