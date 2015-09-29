@@ -23,7 +23,7 @@ header-img: img/2015-09-27/opera.jpg
  Your browser does not support the audio element.
 </audio>
 
-主讲人表演越剧片段《西厢记》
+李响表演越剧《西厢记》片段
 
 <audio controls="controls">
    <source src="{{site.www-data-url}}/audio/2015-09-28-lixiang-xixiangji.mp3" type="audio/mpeg">
