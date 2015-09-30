@@ -7,8 +7,11 @@ category: event
 published: true
 ---
 
-
-## 谷雨书苑LA第四期分享会信息
+## 分享音频
+<audio controls="controls">
+  <source src="{{site.www-data-url}}/audio/la/2015-09-26-soul-stealers.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
 
 ## 时间和地址:
 
