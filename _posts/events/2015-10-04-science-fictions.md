@@ -8,8 +8,8 @@ header-img: img/2015-10-04/scifi.jpg
 ---
 
 ## 报名链接
-[Eventbrite](https://www.eventbrite.com/e/by-qiongying-hu-tickets-18857627672)  
-由于场地有限，本次读书会限制人数，请想要来参加的朋友提早尽快报名，满额后的报名者将自动进入waitlist。现场报名收费5块。
+
+<div style="width:100%; text-align:left;" ><iframe  src="//eventbrite.com/tickets-external?eid=18857627672&ref=etckt" frameborder="0" height="300" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe></div>
 
 ## 时间和地址
 10月4号，周日晚上5:00pm - 8:00pm  
