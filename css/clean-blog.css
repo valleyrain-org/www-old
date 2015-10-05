@@ -48,6 +48,7 @@ hr.small {
   width: 100%;
   z-index: 3;
   font-family: "微软雅黑","Arial","Helvetica","sans-serif";
+  text-shadow: 0px 0px 4px #000000;
 }
 .navbar-custom .navbar-other-site {
   font-weight: 400;
