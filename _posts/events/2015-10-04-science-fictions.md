@@ -7,6 +7,37 @@ published: true
 header-img: img/2015-10-04/scifi.jpg 
 ---
 
+## 读书分享录音
+
+录音第一部分
+
+<audio controls="controls">
+   <source src="{{site.www-data-url}}/audio/2015-10-04-qiongying-hu-part1.mp3" type="audio/mpeg">
+ Your browser does not support the audio element.
+</audio>
+
+Kelly诗歌部分
+
+<audio controls="controls">
+   <source src="{{site.www-data-url}}/audio/2015-10-04-kelly-poem.mp3" type="audio/mpeg">
+ Your browser does not support the audio element.
+</audio>
+
+录音第二部分 
+
+<audio controls="controls">
+   <source src="{{site.www-data-url}}/audio/2015-10-04-qiongying-hu-part1.mp3" type="audio/mpeg">
+ Your browser does not support the audio element.
+</audio>
+
+书友讨论部分
+
+<audio controls="controls">
+   <source src="{{site.www-data-url}}/audio/2015-10-04-discussion.mp3" type="audio/mpeg">
+ Your browser does not support the audio element.
+</audio>
+
+
 ## 报名链接
 
 <div style="width:100%; text-align:left;" ><iframe  src="//eventbrite.com/tickets-external?eid=18857627672&ref=etckt" frameborder="0" height="300" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe></div>
