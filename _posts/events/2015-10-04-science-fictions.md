@@ -7,7 +7,9 @@ published: true
 header-img: img/2015-10-04/scifi.jpg 
 ---
 
-## 读书分享录音
+## 读书分享Slides及录音
+
+Slides: [下载]({{site.www-data-url}}/slides/2015-10-04-science-fictions.pdf)
 
 录音第一部分
 
