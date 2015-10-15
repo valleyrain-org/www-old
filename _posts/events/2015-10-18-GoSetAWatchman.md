@@ -15,7 +15,7 @@ header-img: img/2015-10-18/harper-watchman.jpg
 @3375 Scott Blvd, Suite 306  
 Santa Clara, CA 95054
 
-## 分享人：Cocil Coe
+## 分享人：Cecil Coe
 Cecil Coe，硅谷科技人，先后在半导体及网路通信业就职， 担任过 Steve Jobs 的 NeXT Computer 网路经理，架设并管理全球网路，也为社会主义中国建立过各种大型电信能源金融等通信网路。业余爱好为阅读，古典合唱，爬山，以及向年轻人学习。
 
 ## 分享内容：Go Set a Watchman
