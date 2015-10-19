@@ -4,8 +4,42 @@ title: 第二十九期读书分享会（分享题目《Go Set a Watchman》）by
 category: event
 description: 本书发行乃继《哈利珀特》以来之出版界头等大事。自今年二月宣布出版后，便引起广泛两极争议，导致阿拉巴马州州政府出面调查有无律师及出版商欺诈年迈作者一事。整个翻译，印刷，及运送过程中，均使用出版史上最严密的保密保安措施。仅美国出版商首刷就超过两百万册精装 deckle edge 版，预订期连续五周占亚马逊排名第一畅销小说，出版史上销售记录仅次于《哈利珀特》。
 published: true
-header-img: img/2015-10-18/harper-watchman.jpg 
+header-img: img/2015-10-18/harper-watchman.jpg
 ---
+
+## 读书分享Slides及录音
+
+Slides: [下载]({{site.www-data-url}}/slides/2015-10-18-watchman.pdf)
+
+录音第一部分
+
+<audio controls="controls">
+   <source src="{{site.www-data-url}}/audio/2015-10-18-cecil-part1.mp3" type="audio/mpeg">
+ Your browser does not support the audio element.
+</audio>
+
+Kelly诗歌部分
+
+<audio controls="controls">
+   <source src="{{site.www-data-url}}/audio/2015-10-18-kelly-poem.mp3" type="audio/mpeg">
+ Your browser does not support the audio element.
+</audio>
+
+录音第二部分
+
+<audio controls="controls">
+   <source src="{{site.www-data-url}}/audio/2015-10-18-cecil-part2.mp3" type="audio/mpeg">
+ Your browser does not support the audio element.
+</audio>
+
+
+录音第三部分 
+
+<audio controls="controls">
+   <source src="{{site.www-data-url}}/audio/2015-10-18-cecil-part3.mp3" type="audio/mpeg">
+ Your browser does not support the audio element.
+</audio>
+
 
 ## 报名链接
 <div style="width:100%; text-align:left;" ><iframe  src="//eventbrite.com/tickets-external?eid=19055147459&ref=etckt" frameborder="0" height="300" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe></div>
