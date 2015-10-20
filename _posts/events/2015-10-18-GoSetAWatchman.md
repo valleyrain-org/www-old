@@ -9,7 +9,7 @@ header-img: img/2015-10-18/harper-watchman.jpg
 
 ## 读书分享Slides及录音
 
-Slides: [下载]({{site.www-data-url}}/slides/2015-10-18-watchman.pdf)
+Slides: [链接](https://docs.google.com/presentation/d/1QHqrqXEkw9nhs5rg6WtEW6ps6xK39apcsCXIJFiLJgg/edit?usp=docslist_api)
 
 录音第一部分
 
