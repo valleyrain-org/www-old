@@ -8,7 +8,7 @@ header-img: https://upload.wikimedia.org/wikipedia/commons/3/38/Two_dancers.jpg
 ---
 
 ## 报名链接
-<div style="width:100%; text-align:left;" ><iframe  src="//eventbrite.com/tickets-external?eid=19055147459&ref=etckt" frameborder="0" height="300" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe></div>
+<div style="width:100%; text-align:left;" ><iframe  src="//eventbrite.com/tickets-external?eid=19194602573&ref=etckt" frameborder="0" height="300" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe></div>
 
 ## 时间和地址
 10月25号，周日晚上5:00pm - 8:00pm  
