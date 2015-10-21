@@ -4,7 +4,7 @@ title: 第三十期读书分享会（分享题目《现代舞历史与流派》�
 category: event
 description: 介绍西方现代舞历史与流派以及中国现代舞现状
 published: true
-header-img: https://upload.wikimedia.org/wikipedia/commons/3/38/Two_dancers.jpg
+header-img: img/2015-10-25/modern-dance.jpg
 ---
 
 ## 报名链接
