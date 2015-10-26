@@ -7,13 +7,30 @@ published: true
 header-img: img/2015-10-25/modern-dance.jpg
 ---
 
-## 报名链接
-<div style="width:100%; text-align:left;" ><iframe  src="//eventbrite.com/tickets-external?eid=19194602573&ref=etckt" frameborder="0" height="300" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe></div>
+## 读书分享Slides及录音
 
-## 时间和地址
-10月25号，周日晚上5:00pm - 8:00pm  
-@3375 Scott Blvd, Suite 306  
-Santa Clara, CA 95054
+Slides: [链接](https://docs.google.com/presentation/d/1jbH5VuHFl2wGYtHrS5phoZi2LzTrRCzJ7hou9rrLva8/edit?ts=562d3ba5#slide=id.p)
+
+录音第一部分
+
+<audio controls="controls">
+   <source src="{{site.www-data-url}}/audio/2015-10-25-zhangci-part1.mp3" type="audio/mpeg">
+ Your browser does not support the audio element.
+</audio>
+
+Kelly诗歌部分
+
+<audio controls="controls">
+   <source src="{{site.www-data-url}}/audio/2015-10-25-kelly-poem.mp3" type="audio/mpeg">
+ Your browser does not support the audio element.
+</audio>
+
+录音第二部分
+
+<audio controls="controls">
+   <source src="{{site.www-data-url}}/audio/2015-10-25-zhangci-part2.mp3" type="audio/mpeg">
+ Your browser does not support the audio element.
+</audio>
 
 ## 分享人：张慈
 Bio: 1995 - 2011 年，YMCA & Oracle fitness instructor ; 中国现代舞蹈家金星，文慧，杨丽萍(年轻时代）的好友；美国舞蹈大师Bob Gung的学生，在Foothill College简修过芭蕾与爵士舞。  
@@ -100,3 +117,11 @@ Bio: 1995 - 2011 年，YMCA & Oracle fitness instructor ; 中国现代舞蹈家�
 上海现代舞蹈学校
 在美欧的中国舞者
 </pre>
+
+## 报名链接
+<div style="width:100%; text-align:left;" ><iframe  src="//eventbrite.com/tickets-external?eid=19194602573&ref=etckt" frameborder="0" height="300" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe></div>
+
+## 时间和地址
+10月25号，周日晚上5:00pm - 8:00pm  
+@3375 Scott Blvd, Suite 306  
+Santa Clara, CA 95054
