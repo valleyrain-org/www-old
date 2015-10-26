@@ -9,7 +9,7 @@ header-img: img/2015-10-25/modern-dance.jpg
 
 ## 读书分享Slides及录音
 
-Slides: [链接](https://docs.google.com/presentation/d/1jbH5VuHFl2wGYtHrS5phoZi2LzTrRCzJ7hou9rrLva8/edit?ts=562d3ba5#slide=id.p)
+Slides: [链接](https://docs.google.com/presentation/d/1jbH5VuHFl2wGYtHrS5phoZi2LzTrRCzJ7hou9rrLva8/edit?usp=sharing)
 
 录音第一部分
 
