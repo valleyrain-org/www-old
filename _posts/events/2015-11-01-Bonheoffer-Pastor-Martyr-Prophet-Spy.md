@@ -10,8 +10,8 @@ header-img: http://www.christianitytoday.com/images/39442.jpg?w=620
 ##分享人：周锋锁
 bio: 天安门广场抗议运动参与者，旧金山湾区NGO人道中国创办人。清华大学物理系本科，芝加哥大学MBA。现从事量化选股模型研究。热爱自由，崇尚公义，欣赏上帝创造的一切美善。读书广杂，喜欢电影，热衷户外活动，自然有水的地方都会到此一游。
 
-周锋锁先生也是第九期读书分享《The Great Dissent》主讲人：
-<http://www.valleyrain.org/event/2015/05/31/the-great-dissent/>
+周锋锁先生也是第九期读书分享[《The Great Dissent》](http://www.valleyrain.org/event/2015/05/31/the-great-dissent/)的主讲人。
+
 
 ##分享内容：《Bonhoeffer：Pastor，Martyr，Prophet，Spy》by Eric Metaxas
 “任何关于犹太人遭受的大屠杀的历史研究都有是现今社会的研究”，今年是一战百年，二战70周年纪念，让我们一起通过一个抵抗运动中
@@ -26,7 +26,7 @@ bio: 天安门广场抗议运动参与者，旧金山湾区NGO人道中国创办
 美国作家，《纽约时报》畅销书《奇异恩典：威伯福斯与废奴运动》的作者。曾任寇尔森（Chuck Colson）主办的广播节目《突破点》的作者和编辑。常在《纽约时报》、《华盛顿邮报》、《大西洋月刊》、《今日基督教》等较有影响力的报刊杂志上发表文章，并担任CNN和Fox新闻频道的文化评论员。
 
 ##章节试读：
-摘自梅塔萨斯著《朋霍费尔：牧师，殉道者，先知，间谍》上海三联书店，2015年9月，橡树即出
+####摘自梅塔萨斯著《朋霍费尔：牧师，殉道者，先知，间谍》上海三联书店，2015年9月，橡树即出
 
 一九四五年七月廿七日，伦敦
 
@@ -62,3 +62,6 @@ bio: 天安门广场抗议运动参与者，旧金山湾区NGO人道中国创办
 
 本书就是他的故事。
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wOVbF3YTbEM" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ua9UU5ghvFc" frameborder="0" allowfullscreen></iframe>
