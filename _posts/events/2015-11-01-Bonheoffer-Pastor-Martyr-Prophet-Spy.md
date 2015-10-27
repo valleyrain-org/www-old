@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 第三十一期读书分享会（分享题目《潘霍华：牧师，殉道者，先知，谍报员》by Eric Metaxas
+title: 第三十一期读书分享会（分享题目《潘霍华：牧师，殉道者，先知，谍报员》by Fengsuo Zhou
 category: event
 description: 通过Bonhoeffer牧师的一生经历，回顾希特勒统治下的德国和人道主义精神。
 published: true
