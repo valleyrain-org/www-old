@@ -7,6 +7,32 @@ published: true
 header-img: img/2015-10-25/modern-dance.jpg
 ---
 
+## 精彩视频片段
+<video width="320" height="240" controls>
+  <source src="{{site.www-data-url}}/videos/2015-10-25/IMG_2282.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+<video width="320" height="240" controls>
+  <source src="{{site.www-data-url}}/videos/2015-10-25/IMG_2283.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+<video width="320" height="240" controls>
+  <source src="{{site.www-data-url}}/videos/2015-10-25/IMG_2284.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+<video width="320" height="240" controls>
+  <source src="{{site.www-data-url}}/videos/2015-10-25/IMG_2285.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+<video width="320" height="240" controls>
+  <source src="{{site.www-data-url}}/videos/2015-10-25/IMG_2286.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
 ## 读书分享Slides及录音
 
 Slides: [链接](https://docs.google.com/presentation/d/1jbH5VuHFl2wGYtHrS5phoZi2LzTrRCzJ7hou9rrLva8/edit?usp=sharing)
