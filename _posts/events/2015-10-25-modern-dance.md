@@ -78,7 +78,7 @@ Bio: 1995 - 2011 年，YMCA & Oracle fitness instructor ; 中国现代舞蹈家�
 
 - 【一席之地】 陶冶：陶身体剧场
 
-  <iframe width="853" height="480" src="https://www.youtube.com/embed/e_DVE69COA0" frameborder="0" allowfullscreen></iframe>
+  <iframe width="640" height="480" src="https://www.youtube.com/embed/e_DVE69COA0" frameborder="0" allowfullscreen></iframe>
 
 - Martha Graham 
 
@@ -86,7 +86,7 @@ Bio: 1995 - 2011 年，YMCA & Oracle fitness instructor ; 中国现代舞蹈家�
 
 - Paul Taylor
 
-  <iframe width="853" height="480" src="https://www.youtube.com/embed/uPXAAyUjUGg" frameborder="0" allowfullscreen></iframe>
+  <iframe width="640" height="480" src="https://www.youtube.com/embed/uPXAAyUjUGg" frameborder="0" allowfullscreen></iframe>
 
 - 金星
 
@@ -94,11 +94,11 @@ Bio: 1995 - 2011 年，YMCA & Oracle fitness instructor ; 中国现代舞蹈家�
 
 - 侯莹
 
-  <iframe width="853" height="480" src="https://www.youtube.com/embed/QyNCw1veK2k" frameborder="0" allowfullscreen></iframe>
+  <iframe width="640" height="480" src="https://www.youtube.com/embed/QyNCw1veK2k" frameborder="0" allowfullscreen></iframe>
 
 - 沈伟 “Folding”
 
-  <iframe width="853" height="480" src="https://www.youtube.com/embed/WYPJLTk5E5E" frameborder="0" allowfullscreen></iframe>
+  <iframe width="640" height="480" src="https://www.youtube.com/embed/WYPJLTk5E5E" frameborder="0" allowfullscreen></iframe>
 
 ### 分享大纲:
 
