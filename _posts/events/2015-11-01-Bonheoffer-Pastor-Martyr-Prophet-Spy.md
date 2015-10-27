@@ -25,7 +25,7 @@ Santa Clara, CA 95054
 周锋锁先生也是第九期读书分享[*The Great Dissent*](http://www.valleyrain.org/event/2015/05/31/the-great-dissent/) 的主讲人。
 
 
-## 分享内容：《Bonhoeffer：Pastor，Martyr，Prophet，Spy》by Eric Metaxas
+## 分享内容：《Bonhoeffer：Pastor，Martyr，Prophet，Spy》
 
 “任何关于犹太人遭受的大屠杀的历史研究都有是现今社会的研究”，今年是一战百年，二战70周年纪念，让我们一起通过一个抵抗运动中
 德国牧师Bonhoeffer潘霍华一生经历，来回顾希特勒统治下的德国，大劫难中个人的人道主义精神，信仰和苦斗。
