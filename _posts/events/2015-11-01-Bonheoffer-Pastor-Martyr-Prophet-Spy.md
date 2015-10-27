@@ -7,6 +7,15 @@ published: true
 header-img: http://www.christianitytoday.com/images/39442.jpg?w=620
 ---
 
+## 报名链接
+<div style="width:100%; text-align:left;" ><iframe  src="//eventbrite.com/tickets-external?eid=19264704249&ref=etckt" frameborder="0" height="300" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe></div>
+
+## 时间和地址
+11月01号，周日晚上5:00pm - 8:00pm  
+@3375 Scott Blvd, Suite 306  
+Santa Clara, CA 95054
+
+
 ##分享人：周锋锁
 bio: 天安门广场抗议运动参与者，旧金山湾区NGO人道中国创办人。清华大学物理系本科，芝加哥大学MBA。现从事量化选股模型研究。热爱自由，崇尚公义，欣赏上帝创造的一切美善。读书广杂，喜欢电影，热衷户外活动，自然有水的地方都会到此一游。
 
