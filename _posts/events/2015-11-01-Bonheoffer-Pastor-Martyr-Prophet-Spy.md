@@ -8,21 +8,25 @@ header-img: http://www.christianitytoday.com/images/39442.jpg?w=620
 ---
 
 ## 报名链接
+
 <div style="width:100%; text-align:left;" ><iframe  src="//eventbrite.com/tickets-external?eid=19264704249&ref=etckt" frameborder="0" height="300" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe></div>
 
 ## 时间和地址
+
 11月01号，周日晚上5:00pm - 8:00pm  
 @3375 Scott Blvd, Suite 306  
 Santa Clara, CA 95054
 
 
-##分享人：周锋锁
+## 分享人：周锋锁
+
 bio: 天安门广场抗议运动参与者，旧金山湾区NGO人道中国创办人。清华大学物理系本科，芝加哥大学MBA。现从事量化选股模型研究。热爱自由，崇尚公义，欣赏上帝创造的一切美善。读书广杂，喜欢电影，热衷户外活动，自然有水的地方都会到此一游。
 
 周锋锁先生也是第九期读书分享[《The Great Dissent》](http://www.valleyrain.org/event/2015/05/31/the-great-dissent/)的主讲人。
 
 
-##分享内容：《Bonhoeffer：Pastor，Martyr，Prophet，Spy》by Eric Metaxas
+## 分享内容：《Bonhoeffer：Pastor，Martyr，Prophet，Spy》by Eric Metaxas
+
 “任何关于犹太人遭受的大屠杀的历史研究都有是现今社会的研究”，今年是一战百年，二战70周年纪念，让我们一起通过一个抵抗运动中
 德国牧师Bonhoeffer潘霍华一生经历，来回顾希特勒统治下的德国，大劫难中个人的人道主义精神，信仰和苦斗。
 显贵出身的年轻的牧师，才华卓著的神学家，为什么会加入刺杀希特勒，试图政变的秘密抵抗运动？为什么他会在最危险的时候放弃
@@ -31,12 +35,25 @@ bio: 天安门广场抗议运动参与者，旧金山湾区NGO人道中国创办
 
 'In Hitler's Germany, a Lutheran pastor chooses resistance and pays with his life. . . Eric Metaxas tells Bonhoeffer's story with passion and theological sophistication, often challenging revisionist accounts that make Bonhoeffer out to be a 'humanist' or ethicist for whom religious doctrine was easily disposable. . . Metaxas reminds us that there are forms of religion -- respectable, domesticated, timid -- that may end up doing the devil's work for him. --Wall Street Journal
 
-##作者简介：Eric Metaxas
+## 作者简介：Eric Metaxas
+
 美国作家，《纽约时报》畅销书《奇异恩典：威伯福斯与废奴运动》的作者。曾任寇尔森（Chuck Colson）主办的广播节目《突破点》的作者和编辑。常在《纽约时报》、《华盛顿邮报》、《大西洋月刊》、《今日基督教》等较有影响力的报刊杂志上发表文章，并担任CNN和Fox新闻频道的文化评论员。
 
-##章节试读：
+## 影像资料：
 
-####摘自梅塔萨斯著《朋霍费尔：牧师，殉道者，先知，间谍》上海三联书店，2015年9月，橡树即出
+ - Bonhoeffer, The Prophet and Spy - CBN.com
+
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/wOVbF3YTbEM" frameborder="0" allowfullscreen></iframe>
+
+ - Author Eric Metaxas on Bonhoeffer: The Extended Interview - CBN.com
+
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/Ua9UU5ghvFc" frameborder="0" allowfullscreen></iframe>
+
+------------------------------------------
+
+## 章节试读：
+
+*摘自梅塔萨斯著《朋霍费尔：牧师，殉道者，先知，间谍》上海三联书店，2015年9月，橡树即出*
 
 一九四五年七月廿七日，伦敦
 
@@ -72,6 +89,3 @@ bio: 天安门广场抗议运动参与者，旧金山湾区NGO人道中国创办
 
 本书就是他的故事。
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wOVbF3YTbEM" frameborder="0" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Ua9UU5ghvFc" frameborder="0" allowfullscreen></iframe>
