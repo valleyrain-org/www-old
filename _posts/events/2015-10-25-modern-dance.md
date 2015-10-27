@@ -7,6 +7,31 @@ published: true
 header-img: img/2015-10-25/modern-dance.jpg
 ---
 
+## 读书分享Slides及录音
+
+- Slides: [链接](https://docs.google.com/presentation/d/1jbH5VuHFl2wGYtHrS5phoZi2LzTrRCzJ7hou9rrLva8/edit?usp=sharing)
+
+- 录音第一部分
+
+  <audio controls="controls">
+     <source src="{{site.www-data-url}}/audio/2015-10-25-zhangci-part1.mp3" type="audio/mpeg">
+   Your browser does not support the audio element.
+  </audio>
+
+- Kelly诗歌部分
+
+  <audio controls="controls">
+     <source src="{{site.www-data-url}}/audio/2015-10-25-kelly-poem.mp3" type="audio/mpeg">
+   Your browser does not support the audio element.
+  </audio>
+
+- 录音第二部分
+
+  <audio controls="controls">
+     <source src="{{site.www-data-url}}/audio/2015-10-25-zhangci-part2.mp3" type="audio/mpeg">
+   Your browser does not support the audio element.
+  </audio>
+
 ## 精彩视频片段
 
 <video width="320" height="240" controls>
@@ -33,31 +58,6 @@ Your browser does not support the video tag.
   <source src="{{site.www-data-url}}/videos/2015-10-25/IMG_2286.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
-
-## 读书分享Slides及录音
-
-- Slides: [链接](https://docs.google.com/presentation/d/1jbH5VuHFl2wGYtHrS5phoZi2LzTrRCzJ7hou9rrLva8/edit?usp=sharing)
-
-- 录音第一部分
-
-  <audio controls="controls">
-     <source src="{{site.www-data-url}}/audio/2015-10-25-zhangci-part1.mp3" type="audio/mpeg">
-   Your browser does not support the audio element.
-  </audio>
-
-- Kelly诗歌部分
-
-  <audio controls="controls">
-     <source src="{{site.www-data-url}}/audio/2015-10-25-kelly-poem.mp3" type="audio/mpeg">
-   Your browser does not support the audio element.
-  </audio>
-
-- 录音第二部分
-
-  <audio controls="controls">
-     <source src="{{site.www-data-url}}/audio/2015-10-25-zhangci-part2.mp3" type="audio/mpeg">
-   Your browser does not support the audio element.
-  </audio>
 
 ## 分享人：张慈
 
