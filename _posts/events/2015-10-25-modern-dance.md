@@ -8,6 +8,7 @@ header-img: img/2015-10-25/modern-dance.jpg
 ---
 
 ## 精彩视频片段
+
 <video width="320" height="240" controls>
   <source src="{{site.www-data-url}}/videos/2015-10-25/IMG_2282.mp4" type="video/mp4">
 Your browser does not support the video tag.
@@ -35,35 +36,37 @@ Your browser does not support the video tag.
 
 ## 读书分享Slides及录音
 
-Slides: [链接](https://docs.google.com/presentation/d/1jbH5VuHFl2wGYtHrS5phoZi2LzTrRCzJ7hou9rrLva8/edit?usp=sharing)
+- Slides: [链接](https://docs.google.com/presentation/d/1jbH5VuHFl2wGYtHrS5phoZi2LzTrRCzJ7hou9rrLva8/edit?usp=sharing)
 
-录音第一部分
+- 录音第一部分
 
-<audio controls="controls">
-   <source src="{{site.www-data-url}}/audio/2015-10-25-zhangci-part1.mp3" type="audio/mpeg">
- Your browser does not support the audio element.
-</audio>
+  <audio controls="controls">
+     <source src="{{site.www-data-url}}/audio/2015-10-25-zhangci-part1.mp3" type="audio/mpeg">
+   Your browser does not support the audio element.
+  </audio>
 
-Kelly诗歌部分
+- Kelly诗歌部分
 
-<audio controls="controls">
-   <source src="{{site.www-data-url}}/audio/2015-10-25-kelly-poem.mp3" type="audio/mpeg">
- Your browser does not support the audio element.
-</audio>
+  <audio controls="controls">
+     <source src="{{site.www-data-url}}/audio/2015-10-25-kelly-poem.mp3" type="audio/mpeg">
+   Your browser does not support the audio element.
+  </audio>
 
-录音第二部分
+- 录音第二部分
 
-<audio controls="controls">
-   <source src="{{site.www-data-url}}/audio/2015-10-25-zhangci-part2.mp3" type="audio/mpeg">
- Your browser does not support the audio element.
-</audio>
+  <audio controls="controls">
+     <source src="{{site.www-data-url}}/audio/2015-10-25-zhangci-part2.mp3" type="audio/mpeg">
+   Your browser does not support the audio element.
+  </audio>
 
 ## 分享人：张慈
+
 Bio: 1995 - 2011 年，YMCA & Oracle fitness instructor ; 中国现代舞蹈家金星，文慧，杨丽萍(年轻时代）的好友；美国舞蹈大师Bob Gung的学生，在Foothill College简修过芭蕾与爵士舞。  
 张慈女士也是第十八期读书分享《流浪北京》主讲人:  
 <http://www.valleyrain.org/event/2015/08/02/bumming-in-beijing/>
 
 ### 特邀嘉宾 马燕  
+
 马燕从小喜爱文学和舞蹈，尤其是芭蕾舞。1992 年春来美留学，就读Virginia Commonwealth University 舞蹈系和商学系。之后受罗马尼亚领衔舞蹈家Juliana Ispas 等名师指导多年。 为了追求丰富的人生经历，她除了不断习舞外，她还读过工程学位，拿了Virginia Commonwealth University 的 MBA，也曾在硅谷高科技公司（Adobe）做过高级市场经理。但她最爱的是舞蹈，也在十二年前放弃公司职场，专心投入家庭和芭蕾事业。她曾在多个舞团表演，角色从群舞到主角，还合作编写，创作了数个舞剧。擅长用心和感觉去舞蹈，还擅长编舞。现在她在Dance Academy of USA 担任学校芭蕾主任，主要芭蕾老师，及学生舞团总监。同时她还在东方艺术学院兼任芭蕾老师。
 
 ## 分享内容：西方现代舞历史与流派&中国现代舞现状
@@ -73,29 +76,29 @@ Bio: 1995 - 2011 年，YMCA & Oracle fitness instructor ; 中国现代舞蹈家�
 
 ### 相关资料：
 
- - 【一席之地】 陶冶：陶身体剧场
+- 【一席之地】 陶冶：陶身体剧场
 
-   <iframe width="853" height="480" src="https://www.youtube.com/embed/e_DVE69COA0" frameborder="0" allowfullscreen></iframe>
+  <iframe width="853" height="480" src="https://www.youtube.com/embed/e_DVE69COA0" frameborder="0" allowfullscreen></iframe>
 
- - Martha Graham 
+- Martha Graham 
 
-   <iframe width="640" height="480" src="https://www.youtube.com/embed/wH5fjgrXlzs" frameborder="0" allowfullscreen></iframe>
+  <iframe width="640" height="480" src="https://www.youtube.com/embed/wH5fjgrXlzs" frameborder="0" allowfullscreen></iframe>
 
- - Paul Taylor
+- Paul Taylor
 
-   <iframe width="853" height="480" src="https://www.youtube.com/embed/uPXAAyUjUGg" frameborder="0" allowfullscreen></iframe>
+  <iframe width="853" height="480" src="https://www.youtube.com/embed/uPXAAyUjUGg" frameborder="0" allowfullscreen></iframe>
 
- - 金星
+- 金星
 
-   <iframe width="640" height="480" src="https://www.youtube.com/embed/K8UUbAxC4eQ" frameborder="0" allowfullscreen></iframe>
+  <iframe width="640" height="480" src="https://www.youtube.com/embed/K8UUbAxC4eQ" frameborder="0" allowfullscreen></iframe>
 
- - 侯莹
+- 侯莹
 
-   <iframe width="853" height="480" src="https://www.youtube.com/embed/QyNCw1veK2k" frameborder="0" allowfullscreen></iframe>
+  <iframe width="853" height="480" src="https://www.youtube.com/embed/QyNCw1veK2k" frameborder="0" allowfullscreen></iframe>
 
- - 沈伟 “Folding”
+- 沈伟 “Folding”
 
-   <iframe width="853" height="480" src="https://www.youtube.com/embed/WYPJLTk5E5E" frameborder="0" allowfullscreen></iframe>
+  <iframe width="853" height="480" src="https://www.youtube.com/embed/WYPJLTk5E5E" frameborder="0" allowfullscreen></iframe>
 
 ### 分享大纲:
 
@@ -145,9 +148,11 @@ Bio: 1995 - 2011 年，YMCA & Oracle fitness instructor ; 中国现代舞蹈家�
 </pre>
 
 ## 报名链接
+
 <div style="width:100%; text-align:left;" ><iframe  src="//eventbrite.com/tickets-external?eid=19194602573&ref=etckt" frameborder="0" height="300" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe></div>
 
 ## 时间和地址
+
 10月25号，周日晚上5:00pm - 8:00pm  
 @3375 Scott Blvd, Suite 306  
 Santa Clara, CA 95054
