@@ -9,7 +9,7 @@
     {% assign la_nav = 'navbar-other-site' %}
 {% endif %}
 
-<nav class="uk-navbar navbar-custom">
+<nav class="uk-navbar navbar-custom uk-width-1-1">
 
     <ul class="uk-navbar-nav uk-hidden-small">
         <li><a class="navbar-brand {{ main_nav }}" href="{{ site.baseurl }}/">{{ site.title }}</a></li>
@@ -25,7 +25,7 @@
      </div>
 
     <a href="#offcanvas" class="uk-navbar-toggle uk-visible-small" data-uk-offcanvas></a>
-    <div class="uk-navbar-brand uk-navbar-center uk-visible-small">{{ site.title }}</div>
+    <a class="uk-navbar-brand uk-navbar-center uk-visible-small" href="{{ site.baseurl }}/">{{ site.title }}</a>
 </nav>
 
 <div id="offcanvas" class="uk-offcanvas">
