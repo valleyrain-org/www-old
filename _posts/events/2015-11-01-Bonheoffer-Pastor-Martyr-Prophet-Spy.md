@@ -14,7 +14,7 @@ header-img: http://www.christianitytoday.com/images/39442.jpg?w=620
 ## 时间和地址
 
 11月01号，周日晚上5:00pm - 8:00pm  
-@3375 Scott Blvd, Suite 306  
+@4th Floor, 3777 Stevens Creek Blvd  
 Santa Clara, CA 95054
 
 
