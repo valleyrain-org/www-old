@@ -4,49 +4,36 @@ description: "读书活动列表"
 permalink: /events/
 ---
 
-
 <section id="services">
-    <div class="container">
-        <div class="row text-center">
-            <div class="col-lg-12 text-center">
-                <h4 class="service-heading">分享的书目</h4>
-                <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-                <div id="container1"></div>
-                <script >
-                $.get('/sheet1.csv', function(data) {
+    <div class="uk-container uk-container-center">
+        <div class="uk-grid">
+            <div class="uk-width-1-1 uk-overflow-container">
+                <h2 class="service-heading uk-text-center">分享的书目</h2>
+                    <table class="uk-table uk-table-hover uk-table-striped table-bordered">
+                        <thead>
+                            <tr>
+                                <th>  </th>
+                                <th> 日期 </th>
+                                <th> 主讲人 </th>
+                                <th> 书名 </th>
+                                <th> 作者 </th>
+                                <th> 类别 </th>
+                            </tr>
+                        </thead>
 
-                // start the table
-                var html = '<table class="table table-striped table-bordered">';
-
-                // split into lines
-                var rows = data.trim().split("\n");
-
-                // parse lines
-                rows.forEach( function getvalues(ourrow) {
-                // start a table row
-                html += "<tr>";
-
-                // split line into columns
-                var columns = ourrow.split(",");
-
-                html += "<td>" + columns[0] + "</td>";
-                html += "<td>" + columns[1] + "</td>";
-                html += "<td>" + columns[2] + "</td>";
-                html += "<td>" + columns[3] + "</td>";
-                html += "<td>" + columns[6] + "</td>";
-
-                // close row
-                html += "</tr>";
-                })
-                // close table
-                html += "</table>";
-
-                // insert into div
-                $('#container1').append(html);
-
-                });
-                </script>
-
+                        <tbody>
+                            {% for book in site.data.book_list %}
+                            <tr>
+                                <td> {{ book.seq }} </td>
+                                <td> {{ book.date }} </td>
+                                <td> {{ book.speaker }} </td>
+                                <td> {{ book.bookname }} </td>
+                                <td> {{ book.author }} </td>
+                                <td> {{ book.category }} </td>
+                            </tr>
+                            {% endfor %}
+                        </tbody>
+                    </table>
             </div>
         </div>
     </div>
