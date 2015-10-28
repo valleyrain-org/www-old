@@ -52,6 +52,6 @@ Santa Clara, CA 95054
 2. 郑佳明：让中国进入真诚的时代——读郭世佑《历史的误读》，原载《中国青年报》，2015年1月12日   [链接](http://www.aisixiang.com/data/81211.html)  
 3. 谯  珊：溪水清清独自流——《历史的误读》读后，原载《光明日报》，2015年3月24日 [链接](http://www.chinawriter.com.cn/news/2015/2015-03-24/237630.html)  
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/m5D-2DSlo5w" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="240" src="https://www.youtube.com/embed/m5D-2DSlo5w" frameborder="0" allowfullscreen></iframe>
 
 ![book_image](http://img6.douban.com/lpic/s27250441.jpg)

@@ -34,27 +34,27 @@ header-img: img/2015-10-25/modern-dance.jpg
 
 ## 精彩视频片段
 
-<video width="320" height="240" controls>
+<video width="100%" height="240" controls>
   <source src="{{site.www-data-url}}/videos/2015-10-25/IMG_2282.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
-<video width="320" height="240" controls>
+<video width="100%" height="240" controls>
   <source src="{{site.www-data-url}}/videos/2015-10-25/IMG_2283.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
-<video width="320" height="240" controls>
+<video width="100%" height="240" controls>
   <source src="{{site.www-data-url}}/videos/2015-10-25/IMG_2284.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
-<video width="320" height="240" controls>
+<video width="100%" height="240" controls>
   <source src="{{site.www-data-url}}/videos/2015-10-25/IMG_2285.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
-<video width="320" height="240" controls>
+<video width="100%" height="240" controls>
   <source src="{{site.www-data-url}}/videos/2015-10-25/IMG_2286.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
@@ -78,27 +78,27 @@ Bio: 1995 - 2011 年，YMCA & Oracle fitness instructor ; 中国现代舞蹈家�
 
 - 【一席之地】 陶冶：陶身体剧场
 
-  <iframe width="640" height="480" src="https://www.youtube.com/embed/e_DVE69COA0" frameborder="0" allowfullscreen></iframe>
+  <iframe width="100%" height="240" src="https://www.youtube.com/embed/e_DVE69COA0" frameborder="0" allowfullscreen></iframe>
 
 - Martha Graham 
 
-  <iframe width="640" height="480" src="https://www.youtube.com/embed/wH5fjgrXlzs" frameborder="0" allowfullscreen></iframe>
+  <iframe width="100%" height="240" src="https://www.youtube.com/embed/wH5fjgrXlzs" frameborder="0" allowfullscreen></iframe>
 
 - Paul Taylor
 
-  <iframe width="640" height="480" src="https://www.youtube.com/embed/uPXAAyUjUGg" frameborder="0" allowfullscreen></iframe>
+  <iframe width="100%" height="240" src="https://www.youtube.com/embed/uPXAAyUjUGg" frameborder="0" allowfullscreen></iframe>
 
 - 金星
 
-  <iframe width="640" height="480" src="https://www.youtube.com/embed/K8UUbAxC4eQ" frameborder="0" allowfullscreen></iframe>
+  <iframe width="100%" height="240" src="https://www.youtube.com/embed/K8UUbAxC4eQ" frameborder="0" allowfullscreen></iframe>
 
 - 侯莹
 
-  <iframe width="640" height="480" src="https://www.youtube.com/embed/QyNCw1veK2k" frameborder="0" allowfullscreen></iframe>
+  <iframe width="100%" height="240" src="https://www.youtube.com/embed/QyNCw1veK2k" frameborder="0" allowfullscreen></iframe>
 
 - 沈伟 “Folding”
 
-  <iframe width="640" height="480" src="https://www.youtube.com/embed/WYPJLTk5E5E" frameborder="0" allowfullscreen></iframe>
+  <iframe width="100%" height="240" src="https://www.youtube.com/embed/WYPJLTk5E5E" frameborder="0" allowfullscreen></iframe>
 
 ### 分享大纲:
 

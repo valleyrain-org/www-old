@@ -39,6 +39,6 @@ Schell毕业于哈佛大学远东历史系，后在加州大学伯克利分校�
 ###John Delury鲁乐汉
 美国亚洲协会美中关系中心副主任。毕业于耶鲁大学现代中国史博士，也是一位年轻的研究朝鲜问题的专家，曾任教于布朗，哥伦比亚大学，北京大学，曾是亚洲协会美中关系中心副主任。他目前在韩国延世大学国际关系系任教，并经常在主要媒体上发表关于中国和北朝鲜的研究评论。
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mdKIWBnxpeA" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="240" src="https://www.youtube.com/embed/mdKIWBnxpeA" frameborder="0" allowfullscreen></iframe>
 
 

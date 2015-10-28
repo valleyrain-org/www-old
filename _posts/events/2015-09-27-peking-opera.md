@@ -58,4 +58,4 @@ Santa Clara, CA 95054
 
 ![image](/img/2015-09-27/lingren.jpg)
 
-<iframe height="480" width="600" src="http://player.youku.com/embed/XMzEzODM0MzQ0" frameborder="0" allowfullscreen></iframe>
+<iframe height="100%" width="240" src="http://player.youku.com/embed/XMzEzODM0MzQ0" frameborder="0" allowfullscreen></iframe>

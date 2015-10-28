@@ -190,6 +190,6 @@ BY George Gordon Byron
 
  </pre>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lEbGgKxfHb0" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="240" src="https://www.youtube.com/embed/lEbGgKxfHb0" frameborder="0" allowfullscreen></iframe>
 
 [谷雨书苑]:    http://valleyrain.org  "谷雨书苑"

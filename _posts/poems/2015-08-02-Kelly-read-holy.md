@@ -9,7 +9,7 @@ header-img: https://i.vimeocdn.com/video/435103870_640.jpg
 
 ##诗朗诵
 
-<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/218219165&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<iframe width="100%" height="240" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/218219165&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 
 ##Footnote to Howl
 
@@ -50,4 +50,4 @@ Holy forgiveness! mercy! charity! faith! Holy! Ours! bodies! suffering! magnanim
 Holy the supernatural extra brilliant intelligent kindness of the soul! 
 </pre>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E4DMbwmxfjc" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="240" src="https://www.youtube.com/embed/E4DMbwmxfjc" frameborder="0" allowfullscreen></iframe>
