@@ -64,7 +64,7 @@ So long lives this, and this gives life to thee.
 　　你的名字便将与此常新。 
 </pre>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OQJdpkIbG-w" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="240" src="https://www.youtube.com/embed/OQJdpkIbG-w" frameborder="0" allowfullscreen></iframe>
 
 ###Robert Frost’s “Nothing Gold Can Stay”
 <pre>

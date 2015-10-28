@@ -43,11 +43,11 @@ Santa Clara, CA 95054
 
  - Bonhoeffer, The Prophet and Spy - CBN.com
 
-   <iframe width="560" height="315" src="https://www.youtube.com/embed/wOVbF3YTbEM" frameborder="0" allowfullscreen></iframe>
+   <iframe width="100%" height="240" src="https://www.youtube.com/embed/wOVbF3YTbEM" frameborder="0" allowfullscreen></iframe>
 
  - Author Eric Metaxas on Bonhoeffer: The Extended Interview - CBN.com
 
-   <iframe width="560" height="315" src="https://www.youtube.com/embed/Ua9UU5ghvFc" frameborder="0" allowfullscreen></iframe>
+   <iframe width="100%" height="240" src="https://www.youtube.com/embed/Ua9UU5ghvFc" frameborder="0" allowfullscreen></iframe>
 
 ------------------------------------------
 

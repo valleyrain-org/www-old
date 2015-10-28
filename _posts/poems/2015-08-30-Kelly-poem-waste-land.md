@@ -42,4 +42,4 @@ In the mountains, there you feel free.
 I read, much of the night, and go south in the winter.
 </pre>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CqvhMeZ2PlY" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="240" src="https://www.youtube.com/embed/CqvhMeZ2PlY" frameborder="0" allowfullscreen></iframe>
