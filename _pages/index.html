@@ -6,15 +6,15 @@ description: "欢迎来到谷雨书苑"
 
 <!-- Services Section -->
 <section id="services">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-12 text-center">
+    <div class="uk-container uk-container-center">
+        <div class="uk-grid">
+            <div class="uk-text-center">
                 <h2 class="section-heading">我们的使命和任务</h2>
                 <p class="section-subheading text-muted">谷雨书苑是一个立足于美国旧金山硅谷，面向广大华人的，自发性的非营利读书分享团体。 我们每周日会在线下分享讨论一本书。分享的内容涵盖人文，社科，历史，经济，商业金融等各个领域，以及跟书籍相关的电影，音乐，绘画等等。 我们的使命是致力于提高湾区华人圈的精神文化生活水平。 读书会自2015年3月底举办第一次读书活动以来，吸引了旧金山湾区各界知识界精英，包括有出版商，影评人，剧本创作者，纪录片拍摄者，电台读书栏目主持人等，同时还吸引了例如知名律师，画家，社会活动家，初创公司创始人等各界贤达。随着分享的书目涵盖范围日益广泛，我们的影响力也越来越大。诚邀喜欢读书的朋友加入我们的大家庭。</p>
             </div>
         </div>
-        <div class="row text-center">
-            <div class="col-md-4">
+        <div class="uk-grid">
+            <div class="uk-width-medium-1-3">
                 <span class="fa-stack fa-4x">
                     <i class="fa fa-circle fa-stack-2x text-primary"></i>
                     <i class="fa fa-shopping-cart fa-stack-1x fa-inverse"></i>
@@ -22,7 +22,7 @@ description: "欢迎来到谷雨书苑"
                 <h4 class="service-heading">名称由来</h4>
                 <p class="text-muted">谷雨取名，一來是因为读书会成立于春末谷雨时节。二來与硅谷的谷相映衬，三來希望给硅谷这个文化沙漠帶來滋润之雨，文化之雨。同時也暗含希望我們读书会给大家带来哪怕只有一丝可以滋润心灵的雨露甘霖。 有各位书友的支持和陪伴，谷雨书苑才能走得更远，做得更好。</p>
             </div>
-            <div class="col-md-4">
+            <div class="uk-width-medium-1-3 uk-text-center">
                 <span class="fa-stack fa-4x">
                     <i class="fa fa-circle fa-stack-2x text-primary"></i>
                     <i class="fa fa-laptop fa-stack-1x fa-inverse"></i>
@@ -37,7 +37,7 @@ description: "欢迎来到谷雨书苑"
                     其他常见问题可以参见<a href="faq">FAQ</a>
                 </p>
             </div>
-            <div class="col-md-4">
+            <div class="uk-width-medium-1-3">
                 <span class="fa-stack fa-4x">
                     <i class="fa fa-circle fa-stack-2x text-primary"></i>
                     <i class="fa fa-lock fa-stack-1x fa-inverse"></i>
@@ -46,290 +46,6 @@ description: "欢迎来到谷雨书苑"
                 <p class="text-muted">分享的内容涵盖人文，社科，历史，经济，商业金融等各个领域，以及跟书籍相关的电影，音乐，绘画等等。完整的书目可以参见<a href="events">书目分享列表</a>。读者有想要分享的书目也可以与谷雨书苑团队联系(valleyrain.org@gmail.com)，我们会尽量安排书目分享活动。
                 </p>
             </div>
-        </div>
-    </div>
-</section>
-
-<!-- Portfolio Grid Section -->
-<section id="portfolio" class="bg-light-gray">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-12 text-center">
-                <h2 class="section-heading"><a href="events/upcoming">活动预告</a></h2>
-                <h3 class="section-subheading text-muted">近期活动预告</h3>
-            </div>
-        </div>
-
-        <div class="tiles">
-             <div class="col-lg-12 text-center">
-
-        {% for post in site.categories.event reversed limit:5 %} 
-
-         {% capture nowunix %}{{'now' | date: '%j'}}{% endcapture %}
-         {% capture posttime %}{{post.date | date: '%j'}}{% endcapture %}
-
-         {% if posttime >= nowunix %}
-                <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-                <div class="title-desc"><h3>{{post.date | date:"%B %d, %Y" }}</h3></div>
-                <div class="title-desc">{{ post.description }}</div>
-         {% endif %}
-        {% endfor %}
-          </div>
-        </div><!-- /.tiles -->
-
-    </div>
-</section>
-
-<!-- Portfolio Grid Section -->
-<section id="old" class="bg-light-gray">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-12 text-center">
-                <h2 class="section-heading"><a href="events/past">活动回顾</a></h2>
-                <h3 class="section-subheading text-muted">往期活动回顾及笔记</h3>
-            </div>
-        </div>
-
-        <div class="tiles">
-             <div class="col-lg-12 text-center">
-        {% for post in site.categories.event limit:7 %} 
-
-         {% capture nowunix %}{{'now' | date: '%j'}}{% endcapture %}
-         {% capture posttime %}{{post.date | date: '%j'}}{% endcapture %}
-
-         {% if posttime < nowunix %}
-                <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-                <div class="title-desc"><h3>{{post.date | date:"%B %d, %Y" }}</h3></div>
-                <div class="title-desc">{{ post.description }}</div>
-         {% endif %}
-        {% endfor %}
-           <h3><a href="events/past">查看更多往期活动...</a></h3>
-          </div>
-        </div><!-- /.tiles -->
-        <div class="tiles">
-             <div class="col-lg-12 text-center">
-        {% for post in site.categories.note limit:2 %} 
-
-         {% capture nowunix %}{{'now' | date: '%j'}}{% endcapture %}
-         {% capture posttime %}{{post.date | date: '%j'}}{% endcapture %}
-
-         {% if posttime < nowunix %}
-                <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-                <div class="title-desc"><h3>{{post.date | date:"%B %d, %Y" }}</h3></div>
-                <div class="title-desc">{{ post.description }}</div>
-         {% endif %}
-        {% endfor %}
-           <h3><a href="note">查看更多笔记...</a></h3>
-          </div>
-        </div><!-- /.tiles -->
-
-    </div>
-</section>
-
-<!-- Portfolio Grid Section -->
-<section id="ex" class="bg-light-gray">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-12 text-center">
-                <h2 class="section-heading"><a href="works">原创作品</a></h2>
-                <h3 class="section-subheading text-muted">书友原创作品展示</h3>
-            </div>
-        </div>
-
-        <div class="tiles">
-             <div class="col-lg-12 text-center">
-               {% for post in site.categories.poems limit:2 %}
-                <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-                <div class="title-desc">{{ post.description }}</div>
-               {% endfor %}
-               <h3><a href="poems">查看更多诗作...</a></h3>
-             </div>
-        </div><!-- /.tiles -->
-        <div class="tiles">
-             <div class="col-lg-12 text-center">
-               {% for post in site.categories.essay limit:2 %}
-                <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-                <div class="title-desc">{{ post.description }}</div>
-               {% endfor %}
-               <h3><a href="essay">查看更多散文...</a></h3>
-             </div>
-        </div><!-- /.tiles -->
-        <div class="tiles">
-             <div class="col-lg-12 text-center">
-               {% for post in site.categories.novels limit:2 %}
-                <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-                <div class="title-desc">{{ post.description }}</div>
-               {% endfor %}
-                <h3><a href="novels">查看更多小说...</a></h3>
-             </div>
-        </div><!-- /.tiles -->
-
-    </div>
-</section>
-
-<!-- Portfolio Grid Section -->
-<section id="ex" class="bg-light-gray">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-12 text-center">
-                <h2 class="section-heading"><a href="reviews">影评书评</a></h2>
-                <h3 class="section-subheading text-muted">电影和书籍评论</h3>
-            </div>
-        </div>
-
-        <div class="tiles">
-             <div class="col-lg-12 text-center">
-               {% for post in site.categories.movies limit:2 %}
-                <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-                <div class="title-desc">{{ post.description }}</div>
-               {% endfor %}
-             </div>
-        </div><!-- /.tiles -->
-        <div class="tiles">
-             <div class="col-lg-12 text-center">
-               {% for post in site.categories.books limit:2 %}
-                <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-                <div class="title-desc">{{ post.description }}</div>
-               {% endfor %}
-               <h3><a href="reviews">查看更多...</a></h3>
-             </div>
-        </div><!-- /.tiles -->
-
-    </div>
-</section>
-
-<!-- About Section -->
-<section id="about">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-12 text-center">
-                <h2 class="section-heading">发展历程</h2>
-                <h3 class="section-subheading text-muted">谷雨书苑的成长历史</h3>
-            </div>
-        </div>
-        <div class="row"> 
-            <div class= col-sm-4>
-            </div>
-            <div class= col-sm-4>
-                <ul class="timeline">
-                    <li>
-                        <div class="timeline-image">
-                          <img class="img-circle img-responsive" src="{{site.baseurl}}/img/about/1.jpg" alt="">
-                        </div>
-                        <div class="timeline-panel">
-                            <div class="timeline-heading">
-                                <h4>2015-03-29</h4>
-                                <h4 class="subheading">第一期分享会</h4>
-                            </div>
-                            <div class="timeline-body">
-                                <p class="text-muted"></p>
-                            </div>
-                        </div>
-                    </li>
-                    <li class="timeline-inverted">
-                        <div class="timeline-image">
-                          <img class="img-circle img-responsive center-block" src="{{site.baseurl}}/img/about/2.jpg" alt="">
-                        </div>
-                        <div class="timeline-panel">
-                            <div class="timeline-heading">
-                                <h4>2015-05-01</h4>
-                                <h4 class="subheading">谷雨书苑正式起名</h4>
-                            </div>
-                            <div class="timeline-body">
-                                <p class="text-muted"></p>
-                            </div>
-                        </div>
-                    </li>
-                </ul>
-            </div> <!-- end of row -->
-        </div>
-    </div>
-</section>
-
-<!-- Team Section -->
-<section id="team" class="bg-light-gray">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-12 text-center">
-                <h2 class="section-heading">团队介绍</h2>
-                <h3 class="section-subheading text-muted">谷雨书苑成长离不开默默奉献的志愿者团队</h3>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-lg-12 text-center" align="center">
-                 <div class="team-member">
-                        <div class="timeline-image">
-                          <img class="img-circle img-responsive center-block" src="{{site.baseurl}}/img/guyuteam.jpg" alt="">
-                        </div>
- 
-                    <h4>Raymond | Tao | Yong | Kun | Weihan</h4> <h4> Wenjie | Kelly | Jing</h4>
-                    <p class="text-muted"></p>
-<!--                    <ul class="list-inline social-buttons">
-                        <li><a href="#"><i class="fa fa-twitter"></i></a>
-                        </li>
-                        <li><a href="#"><i class="fa fa-facebook"></i></a>
-                        </li>
-                        <li><a href="#"><i class="fa fa-linkedin"></i></a>
-                        </li>
-                    </ul> -->
-                </div>
-            </div>
-<!--            <div class="col-sm-4">
-                <div class="team-member">
-                    <img src="img/team/2.jpg" class="img-responsive img-circle" alt="">
-                    <h4>Kelly</h4>
-                    <p class="text-muted"></p>
-                </div>
-            </div>
-            <div class="col-sm-4">
-                <div class="team-member">
-                    <img src="img/team/3.jpg" class="img-responsive img-circle" alt="">
-                    <h4>Weihan</h4>
-                    <p class="text-muted"></p>
-                </div>
-            </div>
-            <div class="col-sm-4">
-                <div class="team-member">
-                    <img src="img/team/3.jpg" class="img-responsive img-circle" alt="">
-                    <h4>Yong</h4>
-                    <p class="text-muted"></p>
-                </div>
-            </div>
-            <div class="col-sm-4">
-                <div class="team-member">
-                    <img src="img/team/3.jpg" class="img-responsive img-circle" alt="">
-                    <h4>Tao</h4>
-                    <p class="text-muted"></p>
-                </div>
-            </div>
-            <div class="col-sm-4">
-                <div class="team-member">
-                    <img src="img/team/3.jpg" class="img-responsive img-circle" alt="">
-                    <h4>Weijie</h4>
-                    <p class="text-muted"></p>
-                </div>
-            </div>
-            <div class="col-sm-4">
-                <div class="team-member">
-                    <img src="img/team/3.jpg" class="img-responsive img-circle" alt="">
-                    <h4>Kun</h4>
-                    <p class="text-muted"></p>
-                </div>
-            </div>
-            <div class="col-sm-4">
-                <div class="team-member">
-                    <img src="img/team/3.jpg" class="img-responsive img-circle" alt="">
-                    <h4>Jing</h4>
-                    <p class="text-muted"></p>
-                </div>
-            </div>
-            <div class="col-sm-4">
-                <div class="team-member">
-                    <img src="img/team/3.jpg" class="img-responsive img-circle" alt="">
-                    <h4>Sarah</h4>
-                    <p class="text-muted"></p>
-                </div>
-            </div>   -->
         </div>
     </div>
 </section>
