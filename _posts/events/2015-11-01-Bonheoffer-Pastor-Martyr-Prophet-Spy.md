@@ -7,16 +7,43 @@ published: true
 header-img: http://www.christianitytoday.com/images/39442.jpg?w=620
 ---
 
-## 报名链接
+## 读书分享录音
 
-<div style="width:100%; text-align:left;" ><iframe  src="//eventbrite.com/tickets-external?eid=19264704249&ref=etckt" frameborder="0" height="300" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe></div>
+- 录音第一部分
 
-## 时间和地址
+  <audio controls="controls">
+     <source src="{{site.www-data-url}}/audio/2015-11-01-zhoufengsuo-part1.mp3" type="audio/mpeg">
+   Your browser does not support the audio element.
+  </audio>
 
-11月01号，周日晚上5:00pm - 8:00pm  
-@4th Floor, 3777 Stevens Creek Blvd  
-Santa Clara, CA 95054
+- 录音第二部分
 
+  <audio controls="controls">
+     <source src="{{site.www-data-url}}/audio/2015-11-01-zhoufengsuo-part2.mp3" type="audio/mpeg">
+   Your browser does not support the audio element.
+  </audio>
+
+
+- Kelly诗歌部分
+
+  <audio controls="controls">
+     <source src="{{site.www-data-url}}/audio/2015-11-01-kelly-poem.mp3" type="audio/mpeg">
+   Your browser does not support the audio element.
+  </audio>
+
+- 录音第三部分
+
+  <audio controls="controls">
+     <source src="{{site.www-data-url}}/audio/2015-11-01-zhoufengsuo-part3.mp3" type="audio/mpeg">
+   Your browser does not support the audio element.
+  </audio>
+
+- 书友讨论部分
+
+  <audio controls="controls">
+     <source src="{{site.www-data-url}}/audio/2015-11-01-zhoufengsuo-part4.mp3" type="audio/mpeg">
+   Your browser does not support the audio element.
+  </audio>
 
 ## 分享人：周锋锁
 
@@ -40,6 +67,10 @@ Santa Clara, CA 95054
 美国作家，《纽约时报》畅销书《奇异恩典：威伯福斯与废奴运动》的作者。曾任寇尔森（Chuck Colson）主办的广播节目《突破点》的作者和编辑。常在《纽约时报》、《华盛顿邮报》、《大西洋月刊》、《今日基督教》等较有影响力的报刊杂志上发表文章，并担任CNN和Fox新闻频道的文化评论员。
 
 ## 相关影像资料：
+
+ - Bonhoeffer: Jamming the Wheels of the Nazi Machine
+
+    <iframe width="100%" height="240" src="https://www.youtube.com/embed/Voy-9IK56CA" frameborder="0" allowfullscreen></iframe>
 
  - Bonhoeffer, The Prophet and Spy - CBN.com
 
@@ -88,4 +119,14 @@ Santa Clara, CA 95054
 这位过世的男士已经订婚。他是牧师也是神学家。而他是因为参与刺杀希特勒的阴谋而被处决。
 
 本书就是他的故事。
+
+## 报名链接
+
+<div style="width:100%; text-align:left;" ><iframe  src="//eventbrite.com/tickets-external?eid=19264704249&ref=etckt" frameborder="0" height="300" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe></div>
+
+## 时间和地址
+
+11月01号，周日晚上5:00pm - 8:00pm  
+@4th Floor, 3777 Stevens Creek Blvd  
+Santa Clara, CA 95054
 
