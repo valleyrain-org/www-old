@@ -23,14 +23,6 @@ header-img: http://www.christianitytoday.com/images/39442.jpg?w=620
    Your browser does not support the audio element.
   </audio>
 
-
-- Kelly诗歌部分
-
-  <audio controls="controls">
-     <source src="{{site.www-data-url}}/audio/2015-11-01-kelly-poem.mp3" type="audio/mpeg">
-   Your browser does not support the audio element.
-  </audio>
-
 - 录音第三部分
 
   <audio controls="controls">
@@ -44,6 +36,31 @@ header-img: http://www.christianitytoday.com/images/39442.jpg?w=620
      <source src="{{site.www-data-url}}/audio/2015-11-01-zhoufengsuo-part4.mp3" type="audio/mpeg">
    Your browser does not support the audio element.
   </audio>
+
+- Kelly诗歌朗诵部分
+
+  <audio controls="controls">
+     <source src="{{site.www-data-url}}/audio/2015-11-01-kelly-poem.mp3" type="audio/mpeg">
+   Your browser does not support the audio element.
+  </audio>
+
+####Wild nights - Wild nights!
+
+####By Emily Dickinson  
+<pre>
+Wild nights - Wild nights!
+Were I with thee
+Wild nights should be
+Our luxury!
+Futile - the winds -
+To a Heart in port -
+Done with the Compass -
+Done with the Chart!
+Rowing in Eden -
+Ah - the Sea!
+Might I but moor - tonight -
+In thee! 
+</pre>
 
 ## 分享人：周锋锁
 
@@ -126,7 +143,9 @@ header-img: http://www.christianitytoday.com/images/39442.jpg?w=620
 
 ## 时间和地址
 
-11月01号，周日晚上5:00pm - 8:00pm  
+11月1日，周日晚5:00pm - 8:00pm  
 @4th Floor, 3777 Stevens Creek Blvd  
 Santa Clara, CA 95054
 
+<iframe width="600" height="450" frameborder="0" style="border:0"
+src="https://www.google.com/maps/embed/v1/place?q=3777%20Stevens%20Creek%20Blvd%20Santa%20Clara%2C%20CA%2095054&key=AIzaSyBU8Fpde0IWAvSPYuvrpcjOHm_8scuCusk" allowfullscreen></iframe> 

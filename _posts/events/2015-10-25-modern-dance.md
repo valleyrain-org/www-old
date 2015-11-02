@@ -18,7 +18,7 @@ header-img: img/2015-10-25/modern-dance.jpg
    Your browser does not support the audio element.
   </audio>
 
-- Kelly诗歌部分
+- Kelly诗歌：闻一多《死水》
 
   <audio controls="controls">
      <source src="{{site.www-data-url}}/audio/2015-10-25-kelly-poem.mp3" type="audio/mpeg">
