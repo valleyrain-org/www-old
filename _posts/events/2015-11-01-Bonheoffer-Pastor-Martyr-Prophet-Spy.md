@@ -7,16 +7,43 @@ published: true
 header-img: http://www.christianitytoday.com/images/39442.jpg?w=620
 ---
 
-## 报名链接
+## 读书分享Slides及录音
 
-<div style="width:100%; text-align:left;" ><iframe  src="//eventbrite.com/tickets-external?eid=19264704249&ref=etckt" frameborder="0" height="300" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe></div>
+- 录音第一部分
 
-## 时间和地址
+  <audio controls="controls">
+     <source src="{{site.www-data-url}}/audio/2015-11-01-zhoufengsuo-part1.mp3" type="audio/mpeg">
+   Your browser does not support the audio element.
+  </audio>
 
-11月01号，周日晚上5:00pm - 8:00pm  
-@4th Floor, 3777 Stevens Creek Blvd  
-Santa Clara, CA 95054
+- 录音第二部分
 
+  <audio controls="controls">
+     <source src="{{site.www-data-url}}/audio/2015-11-01-zhoufengsuo-part2.mp3" type="audio/mpeg">
+   Your browser does not support the audio element.
+  </audio>
+
+
+- Kelly诗歌部分
+
+  <audio controls="controls">
+     <source src="{{site.www-data-url}}/audio/2015-11-01-kelly-poem.mp3" type="audio/mpeg">
+   Your browser does not support the audio element.
+  </audio>
+
+- 录音第三部分
+
+  <audio controls="controls">
+     <source src="{{site.www-data-url}}/audio/2015-11-01-zhoufengsuo-part3.mp3" type="audio/mpeg">
+   Your browser does not support the audio element.
+  </audio>
+
+- 书友讨论部分
+
+  <audio controls="controls">
+     <source src="{{site.www-data-url}}/audio/2015-11-01-zhoufengsuo-part4.mp3" type="audio/mpeg">
+   Your browser does not support the audio element.
+  </audio>
 
 ## 分享人：周锋锁
 
@@ -89,3 +116,12 @@ Santa Clara, CA 95054
 
 本书就是他的故事。
 
+## 报名链接
+
+<div style="width:100%; text-align:left;" ><iframe  src="//eventbrite.com/tickets-external?eid=19264704249&ref=etckt" frameborder="0" height="300" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe></div>
+
+## 时间和地址
+
+11月01号，周日晚上5:00pm - 8:00pm  
+@4th Floor, 3777 Stevens Creek Blvd  
+Santa Clara, CA 95054
