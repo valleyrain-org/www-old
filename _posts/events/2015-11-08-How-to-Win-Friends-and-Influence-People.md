@@ -13,7 +13,7 @@ header-img: "img/2015-11-08/dale-carnegie.jpg"
 
 ## 时间和地址
 
-11月8日，周日晚5:00pm - 8:00pm  
+11月8日，周日晚4:00pm - 7:00pm  
 @4th Floor, 3777 Stevens Creek Blvd  
 Santa Clara, CA 95051
 
