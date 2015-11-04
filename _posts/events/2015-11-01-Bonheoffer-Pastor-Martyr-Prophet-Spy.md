@@ -37,16 +37,15 @@ header-img: http://www.christianitytoday.com/images/39442.jpg?w=620
    Your browser does not support the audio element.
   </audio>
 
-- Kelly诗歌朗诵部分
+## Kelly诗歌朗诵
+
+### Wild nights - Wild nights! by Emily Dickinson  
 
   <audio controls="controls">
      <source src="{{site.www-data-url}}/audio/2015-11-01-kelly-poem.mp3" type="audio/mpeg">
    Your browser does not support the audio element.
   </audio>
 
-####Wild nights - Wild nights!
-
-####By Emily Dickinson  
 <pre>
 Wild nights - Wild nights!
 Were I with thee

@@ -18,12 +18,6 @@ Slides: [链接](https://docs.google.com/presentation/d/1QHqrqXEkw9nhs5rg6WtEW6p
  Your browser does not support the audio element.
 </audio>
 
-Kelly诗歌部分
-
-<audio controls="controls">
-   <source src="{{site.www-data-url}}/audio/2015-10-18-kelly-poem.mp3" type="audio/mpeg">
- Your browser does not support the audio element.
-</audio>
 
 录音第二部分
 
@@ -40,6 +34,41 @@ Kelly诗歌部分
  Your browser does not support the audio element.
 </audio>
 
+## Kelly诗歌朗诵
+
+### *The Dawn* by *Federico García Lorca*  (1898-1936)
+
+<audio controls="controls">
+   <source src="{{site.www-data-url}}/audio/2015-10-18-kelly-poem.mp3" type="audio/mpeg">
+ Your browser does not support the audio element.
+</audio>
+
+<pre>
+The New York dawn has
+four columns of mud
+and a hurricane of black doves
+that paddle in putrescent waters.
+
+The New York dawn grieves
+along the immense stairways,
+seeking amidst the groins
+spikenards of fine-drawn anguish.
+
+The dawn comes and no one receives it in his mouth,
+for there no morn or hope is possible.
+Occasionally, coins in furious swarms
+perforate and devour abandoned children.
+
+The first to come out understand in their bones
+that there will be no paradise nor amours stripped of leaves:
+they know they are going to the mud of figures and laws,
+to artless games, to fruitless sweat.
+
+The light is buried under chains and noises
+in impudent challenge of rootless science.
+Throught the suburbs sleepless people stagger,
+as though just delivered from a shipwreck of blood.
+</pre>
 
 ## 报名链接
 <div style="width:100%; text-align:left;" ><iframe  src="//eventbrite.com/tickets-external?eid=19055147459&ref=etckt" frameborder="0" height="300" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe></div>

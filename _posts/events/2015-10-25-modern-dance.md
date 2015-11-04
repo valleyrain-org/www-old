@@ -18,19 +18,46 @@ header-img: img/2015-10-25/modern-dance.jpg
    Your browser does not support the audio element.
   </audio>
 
-- Kelly诗歌：闻一多《死水》
-
-  <audio controls="controls">
-     <source src="{{site.www-data-url}}/audio/2015-10-25-kelly-poem.mp3" type="audio/mpeg">
-   Your browser does not support the audio element.
-  </audio>
-
 - 录音第二部分
 
   <audio controls="controls">
      <source src="{{site.www-data-url}}/audio/2015-10-25-zhangci-part2.mp3" type="audio/mpeg">
    Your browser does not support the audio element.
   </audio>
+
+## Kelly诗歌朗诵
+
+### 闻一多《死水》
+
+  <audio controls="controls">
+     <source src="{{site.www-data-url}}/audio/2015-10-25-kelly-poem.mp3" type="audio/mpeg">
+   Your browser does not support the audio element.
+  </audio>
+
+<pre>
+死水
+
+这是一沟绝望的死水，
+清风吹不起半点清论。
+不如多扔些破铜烂铁，
+爽性泼你的剩菜残羹。
+也许铜的要绿戍翡翠，
+铁罐上锈出几瓣桃花；
+再让油腻织一层罗绔，
+霉菌给他蒸出些云霞。
+让死水酵戍一沟绿酒，
+飘满了珍珠似的白沫；
+小珠们笑声变戍大珠，
+又被偷酒的花蚊咬破。
+那么一沟绝望的死水，
+也就夸得上几分鲜明。
+如果青蛙耐不住寂寞，
+又算死水叫出了歌声。
+这是一沟绝望的死水，
+这里断不是美的所在。
+不如让给丑恶来开垦，
+看他造出个什么世界。
+</pre>
 
 ## 精彩视频片段
 
