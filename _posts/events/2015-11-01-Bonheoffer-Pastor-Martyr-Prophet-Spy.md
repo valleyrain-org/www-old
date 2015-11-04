@@ -146,5 +146,5 @@ In thee!
 @4th Floor, 3777 Stevens Creek Blvd  
 Santa Clara, CA 95051
 
-<iframe width="100%" height="450" frameborder="0" style="border:0"
+<iframe width="100%" height="180" frameborder="0" style="border:0"
 src="https://www.google.com/maps/embed/v1/place?q=3777%20Stevens%20Creek%20Blvd%20Santa%20Clara%2C%20CA%2095054&key=AIzaSyBU8Fpde0IWAvSPYuvrpcjOHm_8scuCusk" allowfullscreen></iframe>
