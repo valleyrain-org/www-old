@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 第三十三期读书分享会（分享题目《蒋介石日记》by 阮大仁
+title: 第三十三期读书分享会（分享题目《蒋介石日记》）by 阮大仁
 category: event
 description: 《蒋介石日记》是是中国历史上现存最完整、体量最巨的领导人日记。日记高度真实及有权威性，颠覆了中国国民党及中国共产党过去官方论述。
 published: True
