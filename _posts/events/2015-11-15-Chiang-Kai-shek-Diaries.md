@@ -2,7 +2,7 @@
 layout: post
 title: 第三十三期读书分享会（分享题目《蒋介石日记》by 阮大仁
 category: event
-description: 《人性的弱点全集》汇集了卡耐基的思想精华和最激动人心的内容，是作者最成功的励志经典，出版后立即获得了广大读者的欢迎，成为西方世界最持久的人文畅销书。主要内容包括：与人相处的基本技巧、平安快乐的要诀、如何使人喜欢你、如何赢得他人的赞同、如何更好地说服他人、让你的家庭生活幸福快乐等十篇
+description: 《蒋介石日记》是是中国历史上现存最完整、体量最巨的领导人日记。日记高度真实及有权威性，颠覆了中国国民党及中国共产党过去官方论述。
 published: True
 header-img: "https://botanwang.com/sites/default/files/styles/632_n/public/field/image/jiangjies_0.jpg?itok=2Qzf2XzO"
 ---
