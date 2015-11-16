@@ -7,10 +7,6 @@ published: True
 header-img: "https://botanwang.com/sites/default/files/styles/632_n/public/field/image/jiangjies_0.jpg?itok=2Qzf2XzO"
 ---
 
-## 报名链接
-
-<div style="width:100%; text-align:left;" ><iframe  src="//eventbrite.com/tickets-external?eid=19501737221&ref=etckt" frameborder="0" height="300" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe></div>
-
 ## 时间和地址
 
 11月15日，周日晚4:00pm - 7:00pm  
