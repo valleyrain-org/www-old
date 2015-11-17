@@ -11,6 +11,29 @@ header-img: "https://botanwang.com/sites/default/files/styles/632_n/public/field
 
  <iframe width="100%" height="315" src="https://www.youtube.com/embed/videoseries?list=PLbwb8x7jMTXJkIGu9RR3T8ibTcviKnPmt" frameborder="0" allowfullscreen></iframe>
 
+## Kelly诗歌朗诵
+
+### 哀愁——缪塞Musset
+
+<pre>
+我失去了力量和生气
+也失去朋友和欢乐
+甚至失去那种使我
+以天才自负的豪气
+
+当我认识真理之时
+我相信她是个朋友
+而在理解领会之后
+我已对她感到厌腻
+
+可是她却永远长存
+对她不加理会的人
+在世间就完全愚昧
+
+上帝垂询，必须禀告
+我留有的唯一致宝
+是那有时流过的眼泪
+</pre>
 
 ## 分享人
 
