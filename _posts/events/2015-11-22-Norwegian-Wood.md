@@ -23,7 +23,7 @@ src="https://www.google.com/maps/embed/v1/place?q=3777%20Stevens%20Creek%20Blvd%
 ## 分享人: Tanya
 
 曾任湾区新城中文电台（FM92.3，AM1450）《汤雅读书室》《晨间新闻》主持人、制作人。现任旧金山ELI语言学院教务主管，业余为《创世电视》《海外校园》撰稿。  
-Tanya也是第二十期读书分享[*《瓦尔登湖》*](http://www.valleyrain.org/event/2015/08/16/walden/) 的主讲人。
+Tanya也是第二十期读书分享[*《瓦尔登湖》*](http://www.valleyrain.org/event/2015/08/16/walden/){:target="_blank"} 的主讲人。
 
 ## 分享书目：《挪威的森林》
 
