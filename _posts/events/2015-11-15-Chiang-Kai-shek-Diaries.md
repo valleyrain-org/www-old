@@ -7,14 +7,18 @@ published: True
 header-img: "https://botanwang.com/sites/default/files/styles/632_n/public/field/image/jiangjies_0.jpg?itok=2Qzf2XzO"
 ---
 
-## 时间和地址
+## 分享录像
 
-11月15日，周日晚4:00pm - 7:00pm  
-@4th Floor, 3777 Stevens Creek Blvd  
-Santa Clara, CA 95051
+- 第一部分
 
-<iframe width="100%" height="180" frameborder="0" style="border:0"
-src="https://www.google.com/maps/embed/v1/place?q=3777%20Stevens%20Creek%20Blvd%20Santa%20Clara%2C%20CA%2095054&key=AIzaSyBU8Fpde0IWAvSPYuvrpcjOHm_8scuCusk" allowfullscreen></iframe>
+  <iframe width="100%" height="480" src="https://www.youtube.com/embed/hFRvZiw7fng" frameborder="0" allowfullscreen></iframe>
+
+- 第二部分
+  
+  <iframe width="100%" height="480" src="https://www.youtube.com/embed/8fw-Ix2wk1E" frameborder="0" allowfullscreen></iframe>
+
+- 第三部分
+
 
 ## 分享人
 
@@ -36,3 +40,14 @@ src="https://www.google.com/maps/embed/v1/place?q=3777%20Stevens%20Creek%20Blvd%
 
 ## 场地介绍：
 硅谷亚洲艺术中心（Silicon Valley Asian Art Center & Narx Gallery），4500平方英尺展厅，平均每月2场艺展，举办中国绘画、书法、雕刻展览和艺术演讲，演奏活动。
+
+## 时间和地址
+
+11月15日，周日晚4:00pm - 7:00pm  
+@4th Floor, 3777 Stevens Creek Blvd  
+Santa Clara, CA 95051
+
+<iframe width="100%" height="180" frameborder="0" style="border:0"
+src="https://www.google.com/maps/embed/v1/place?q=3777%20Stevens%20Creek%20Blvd%20Santa%20Clara%2C%20CA%2095054&key=AIzaSyBU8Fpde0IWAvSPYuvrpcjOHm_8scuCusk" allowfullscreen></iframe>
+
+
