@@ -48,6 +48,6 @@ Tanya也是第二十期读书分享[*《瓦尔登湖》*](http://www.valleyrain.
 
 ## 视频：Beatles: Norwegian Wood
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rl2xQAeCvOc" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/rl2xQAeCvOc" frameborder="0" allowfullscreen></iframe>
 
 ![img](http://img6.douban.com/lpic/s1228930.jpg)
