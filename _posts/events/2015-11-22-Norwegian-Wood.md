@@ -13,7 +13,7 @@ header-img: img/2015-11-22/norwegianwood.jpg
 
 ## 时间和地址
 
-11月22日，周日晚4:30pm - 8:00pm  
+11月22日，周日晚4:30pm - 7:30pm  
 @4th Floor, 3777 Stevens Creek Blvd  
 Santa Clara, CA 95051
 
