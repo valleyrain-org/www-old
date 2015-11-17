@@ -9,15 +9,7 @@ header-img: "https://botanwang.com/sites/default/files/styles/632_n/public/field
 
 ## 分享录像
 
-- 第一部分
-
-  <iframe width="100%" height="480" src="https://www.youtube.com/embed/hFRvZiw7fng" frameborder="0" allowfullscreen></iframe>
-
-- 第二部分
-  
-  <iframe width="100%" height="480" src="https://www.youtube.com/embed/8fw-Ix2wk1E" frameborder="0" allowfullscreen></iframe>
-
-- 第三部分
+ <iframe width="100%" height="315" src="https://www.youtube.com/embed/videoseries?list=PLbwb8x7jMTXJkIGu9RR3T8ibTcviKnPmt" frameborder="0" allowfullscreen></iframe>
 
 
 ## 分享人
