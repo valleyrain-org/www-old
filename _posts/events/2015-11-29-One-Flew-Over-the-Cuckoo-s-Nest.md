@@ -4,7 +4,7 @@ title: 第三十五期之电影赏析《飞越疯人院》
 category: event
 description: 《飞越疯人院》
 published: True
-header-img: img/2015-11-22/norwegianwood.jpg 
+header-img: 
 ---
 
 ## 报名链接
