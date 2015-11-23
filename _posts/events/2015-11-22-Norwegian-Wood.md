@@ -7,18 +7,9 @@ published: True
 header-img: img/2015-11-22/norwegianwood.jpg 
 ---
 
-## 报名链接
+## 分享录像
 
-<div style="width:100%; text-align:left;" ><iframe  src="//eventbrite.com/tickets-external?eid=19555856092&ref=etckt" frameborder="0" height="300" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe></div>
-
-## 时间和地址
-
-11月22日，周日晚4:30pm - 7:30pm  
-@4th Floor, 3777 Stevens Creek Blvd  
-Santa Clara, CA 95051
-
-<iframe width="100%" height="180" frameborder="0" style="border:0"
-src="https://www.google.com/maps/embed/v1/place?q=3777%20Stevens%20Creek%20Blvd%20Santa%20Clara%2C%20CA%2095054&key=AIzaSyBU8Fpde0IWAvSPYuvrpcjOHm_8scuCusk" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/videoseries?list=PLbwb8x7jMTXLVAQAuqMJxfsxKGhRhWwXd" frameborder="0" allowfullscreen></iframe>
 
 ## 分享人: Tanya
 
@@ -50,4 +41,19 @@ Tanya也是第二十期读书分享[*《瓦尔登湖》*](http://www.valleyrain.
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/rl2xQAeCvOc" frameborder="0" allowfullscreen></iframe>
 
+
+## 报名链接
+
+<div style="width:100%; text-align:left;" ><iframe  src="//eventbrite.com/tickets-external?eid=19555856092&ref=etckt" frameborder="0" height="300" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe></div>
+
+## 时间和地址
+
+11月22日，周日晚4:30pm - 7:30pm  
+@4th Floor, 3777 Stevens Creek Blvd  
+Santa Clara, CA 95051
+
+<iframe width="100%" height="180" frameborder="0" style="border:0"
+src="https://www.google.com/maps/embed/v1/place?q=3777%20Stevens%20Creek%20Blvd%20Santa%20Clara%2C%20CA%2095054&key=AIzaSyBU8Fpde0IWAvSPYuvrpcjOHm_8scuCusk" allowfullscreen></iframe>
+
 ![img](http://img6.douban.com/lpic/s1228930.jpg)
+
