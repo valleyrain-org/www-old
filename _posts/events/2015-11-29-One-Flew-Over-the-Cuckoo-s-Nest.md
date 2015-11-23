@@ -12,7 +12,7 @@ header-img: img/2015-11-29/oneflewmovieposter.jpg
 
 ## 时间和地址
 
-11月27日，周日下午4:30pm - 7:30pm  
+11月29日，周日下午4:30pm - 7:30pm  
 @4th Floor, 3777 Stevens Creek Blvd  
 Santa Clara, CA 95051
 
@@ -22,6 +22,11 @@ src="https://www.google.com/maps/embed/v1/place?q=3777%20Stevens%20Creek%20Blvd%
 ## 活动介绍
 
 为了更好的为广大书友服务，谷雨书苑将不定期推出电影赏析特别活动。本次感恩节假期，我们将为书友们放映电影《飞越疯人院》，电影放映结束后将进行简短讨论。
+
+## 分享人 Kun Han
+
+从事IT工作，喜读书，爱电影，音乐，户外运动  
+曾经分享过第十三期黑泽明电影[*《罗生门》*](http://www.valleyrain.org/event/2015/06/28/the-rashomon/){:target="_blank"}
 
 ## 剧情概要
 
@@ -33,3 +38,6 @@ src="https://www.google.com/maps/embed/v1/place?q=3777%20Stevens%20Creek%20Blvd%
 《飞越疯人院》一片是笔者最喜爱的好莱坞影片之一。本片囊括了1975年第48届奥斯卡最重要的五项大奖：最佳影片、最佳男主角、最佳女主角，最佳导演和最佳改编剧本大奖（奥斯卡历史上目前仅三部影片同时获得次五项大奖，另外两部为1934年的一夜风流和1991年的沉默的羔羊）。影片从故事结构、演员表演，到摄影、音乐音效均成为教科书式的典范。
 
 而本片成为影史经典不仅仅因为其艺术价值，其暗含在叙事层面下的隐喻更是一次关于人性自由的振聋发聩式的呐喊。本片中的故事主要发生在精神病院中，但其对社会体制与自由的反思，已经超越了故事本身。本片与另外一部著名电影《肖申克的救赎》有着相似的精神内核，它们都共同传达了冲破束缚向往自由的精神诉求。 相比较而言，《肖申克的救赎》中更多表现了个人智慧和信念的力量，而本片则更深刻地呈现了“不自由毋宁死”的人性的伟大。
+
+## Trailer
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/OXrcDonY-B8" frameborder="0" allowfullscreen></iframe>
