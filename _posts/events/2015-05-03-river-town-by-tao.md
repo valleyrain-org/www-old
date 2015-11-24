@@ -12,7 +12,7 @@ category: event
 
 - slides: <http://goo.gl/MPhwmi>
 - 资料: <http://goo.gl/BpzAYv>
-- 笔记: <{{site.base_url}}/pdf/river-town-notes.pdf>
+- 笔记by Kelly: <{{site.url}}/pdf/river-town-notes.pdf>
 
 ## 分享人：郭涛
 从事软件开发，喜欢读书，旅行，网球和跑步
