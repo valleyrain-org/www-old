@@ -5,8 +5,11 @@ category: event
 description:  被称作中国第一部纪录片的该片围绕一群1980年代末、1990年代初的“北漂族”（当时被称作“盲流”）展开，这群人中有作家有画家也有导演，尽管各有离开生活多年的家乡的原因，他们来到北京却都是为了追求更为纯粹的艺术理想，然而，他们迎上的更多是尴尬的现实，表面上他们都很乐观，那是因为他们不愿告诉别人难以承受的生命之重。
 header-img: "img/beijing.jpg"
 ---
+## 分享视频 
 
-##分享音频：
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/videoseries?list=PLbwb8x7jMTXJFOVnjBSy4L2pvKfBfek0n" frameborder="0" allowfullscreen></iframe>
+
+## 分享音频
 
 第二部分:
 <audio controls="controls">
@@ -14,7 +17,7 @@ header-img: "img/beijing.jpg"
  Your browser does not support the audio element.
 </audio>
 
-Kelly念Holy:
+Kelly念Holy
 <audio controls="controls">
    <source src="{{site.www-data-url}}/audio/2015-08-02-kelly-holy.mp3" type="audio/mpeg">
  Your browser does not support the audio element.
