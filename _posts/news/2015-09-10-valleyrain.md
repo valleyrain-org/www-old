@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 【读书观影】谷雨书苑的故事 
-category: books 
+category: news 
 description: 谷雨书苑创始团队讲述老百姓自己的故事
 header-img: img/citylight.jpg
 ---
