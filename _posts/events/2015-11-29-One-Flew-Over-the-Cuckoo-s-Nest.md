@@ -36,7 +36,6 @@ src="https://www.google.com/maps/embed/v1/place?q=3777%20Stevens%20Creek%20Blvd%
 
 而本片成为影史经典不仅仅因为其艺术价值，其暗含在叙事层面下的隐喻更是一次关于人性自由的振聋发聩式的呐喊。本片中的故事主要发生在精神病院中，但其对社会体制与自由的反思，已经超越了故事本身。本片与另外一部著名电影《肖申克的救赎》有着相似的精神内核，它们都共同传达了冲破束缚向往自由的精神诉求。 相比较而言，《肖申克的救赎》中更多表现了个人智慧和信念的力量，而本片则更深刻地呈现了“不自由毋宁死”的人性的伟大。
 
-## Trailer
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/OXrcDonY-B8" frameborder="0" allowfullscreen></iframe>
+<iframe src="http://www.tudou.com/programs/view/html5embed.action?type=0&code=0OccnVDWfi4&lcode=&resourceId=0_06_05_99" allowtransparency="true" allowfullscreen="true" allowfullscreenInteractive="true" scrolling="no" border="0" frameborder="0" width="100%" height="100%"></iframe>
 
 ![pic](/img/2015-11-29/group.jpg)
