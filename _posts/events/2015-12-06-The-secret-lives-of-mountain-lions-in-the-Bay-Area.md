@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 第三十六期《湾区山狮的幸福生活》by Yiwei
+title: 第三十六期《湾区美洲狮的幸福生活》by Yiwei
 category: event
 description: 野生动植物专家Yiwei和大家讲述湾区美洲狮的秘密生活
 published: True
