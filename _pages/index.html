@@ -4,6 +4,90 @@ permalink: /
 description: "欢迎来到谷雨书苑"
 ---
 
+<!-- Portfolio Grid Section -->
+<section id="portfolio" class="bg-light-gray">
+    <div class="uk-container uk-container-center">
+        <div class="uk-grid">
+            <div class="uk-width-1-1">
+                <h2 class="section-heading uk-text-center">谷雨书苑活动与动态</h2>
+            </div>
+
+             <div class="uk-width-medium-1-3">
+                <span class="fa-stack fa-4x">
+                    <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                    <i class="fa fa-shopping-cart fa-stack-1x fa-inverse"></i>
+                </span>
+                <h3 class="service-heading uk-text-center"><a href="events/upcoming">活动预告...</a></h3>
+	        <div class="tiles">
+
+	        {% for post in site.categories.event reversed limit:1 %} 
+	        {% capture nowunix %}{{'now' | date: '%j'}}{% endcapture %}
+	        {% capture posttime %}{{post.date | date: '%j'}}{% endcapture %}
+
+        	{% if posttime >= nowunix %}
+               	<div class="service-heading uk-text-center"><h3>{{post.date | date:"%B %d, %Y" }}</h3></div>
+                <a class="uk-thumbnail" href="{{ post.url }}">
+                <img src="{{post.header-img}}" alt="img/guyu.jpg">
+                <div class="uk-thumbnail-caption">{{ post.title}} </div>
+                </a>
+
+	        {% endif %}
+        	{% endfor %}
+	        </div><!-- /.tiles -->
+             </div>
+
+             <div class="uk-width-medium-1-3">
+                <span class="fa-stack fa-4x">
+                    <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                    <i class="fa fa-shopping-cart fa-stack-1x fa-inverse"></i>
+                </span>
+                <h3 class="service-heading uk-text-center"><a href="events/past">往期活动...</a></h3>
+	        <div class="tiles">
+
+	        {% for post in site.categories.event reversed limit:2 %} 
+	        {% capture nowunix %}{{'now' | date: '%j'}}{% endcapture %}
+	        {% capture posttime %}{{post.date | date: '%j'}}{% endcapture %}
+
+                {% if posttime < nowunix %}
+
+               	<div class="service-heading uk-text-center"><h3>{{post.date | date:"%B %d, %Y" }}</h3></div>
+                <a class="uk-thumbnail" href="{{ post.url }}">
+                <img src="{{post.header-img}}" alt="img/guyu.jpg">
+                <div class="uk-thumbnail-caption">{{ post.title }} </div>
+                </a>
+
+	        {% endif %}
+        	{% endfor %}
+
+	        </div><!-- /.tiles -->
+             </div>
+
+              <div class="uk-width-medium-1-3">
+                <span class="fa-stack fa-4x">
+                    <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                    <i class="fa fa-shopping-cart fa-stack-1x fa-inverse"></i>
+                </span>
+                <h3 class="service-heading uk-text-center"><a href="news">谷雨动态...</a></h3>
+	        <div class="tiles">
+
+                {% for post in site.categories.news limit:1 %} 
+               	<div class="service-heading uk-text-center"><h3>{{post.date | date:"%B %d, %Y" }}</h3></div>
+                <a class="uk-thumbnail" href="{{ post.url }}">
+                <img src="{{post.header-img}}" alt="img/guyu.jpg">
+                <div class="uk-thumbnail-caption">{{ post.title }} </div>
+                </a>
+
+        	{% endfor %}
+
+	        </div><!-- /.tiles -->
+             </div>
+    
+
+      </div>
+    </div>
+</section>
+
+
 <!-- Services Section -->
 <section id="services">
     <div class="uk-container uk-container-center">
@@ -48,86 +132,4 @@ description: "欢迎来到谷雨书苑"
     </div>
 </section>
 
-<!-- Portfolio Grid Section -->
-<section id="portfolio" class="bg-light-gray">
-    <div class="uk-container uk-container-center">
-        <div class="uk-grid">
-            <div class="uk-width-1-1">
-                <h2 class="section-heading uk-text-center">谷雨活动与动态</h2>
-            </div>
-
-             <div class="uk-width-medium-1-3">
-                <span class="fa-stack fa-4x">
-                    <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                    <i class="fa fa-shopping-cart fa-stack-1x fa-inverse"></i>
-                </span>
-                <h3 class="service-heading uk-text-center"><a href="events/upcoming">活动预告</a></h3>
-	        <div class="tiles">
-
-	        {% for post in site.categories.event reversed limit:1 %} 
-	        {% capture nowunix %}{{'now' | date: '%j'}}{% endcapture %}
-	        {% capture posttime %}{{post.date | date: '%j'}}{% endcapture %}
-
-        	{% if posttime >= nowunix %}
-               	<div class="service-heading uk-text-center"><h3>{{post.date | date:"%B %d, %Y" }}</h3></div>
-                <a class="uk-thumbnail" href="{{ post.url }}">
-                <img src="{{post.header-img}}" alt="img/guyu.jpg">
-                <div class="uk-thumbnail-caption">{{ post.title}} </div>
-                </a>
-
-	        {% endif %}
-        	{% endfor %}
-	        </div><!-- /.tiles -->
-             </div>
-
-             <div class="uk-width-medium-1-3">
-                <span class="fa-stack fa-4x">
-                    <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                    <i class="fa fa-shopping-cart fa-stack-1x fa-inverse"></i>
-                </span>
-                <h3 class="service-heading uk-text-center"><a href="events/past">往期活动</a></h3>
-	        <div class="tiles">
-
-	        {% for post in site.categories.event reversed limit:2 %} 
-	        {% capture nowunix %}{{'now' | date: '%j'}}{% endcapture %}
-	        {% capture posttime %}{{post.date | date: '%j'}}{% endcapture %}
-
-                {% if posttime < nowunix %}
-
-               	<div class="service-heading uk-text-center"><h3>{{post.date | date:"%B %d, %Y" }}</h3></div>
-                <a class="uk-thumbnail" href="{{ post.url }}">
-                <img src="{{post.header-img}}" alt="img/guyu.jpg">
-                <div class="uk-thumbnail-caption">{{ post.title }} </div>
-                </a>
-
-	        {% endif %}
-        	{% endfor %}
-
-	        </div><!-- /.tiles -->
-             </div>
-
-              <div class="uk-width-medium-1-3">
-                <span class="fa-stack fa-4x">
-                    <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                    <i class="fa fa-shopping-cart fa-stack-1x fa-inverse"></i>
-                </span>
-                <h3 class="service-heading uk-text-center"><a href="news">谷雨动态</a></h3>
-	        <div class="tiles">
-
-                {% for post in site.categories.news limit:1 %} 
-               	<div class="service-heading uk-text-center"><h3>{{post.date | date:"%B %d, %Y" }}</h3></div>
-                <a class="uk-thumbnail" href="{{ post.url }}">
-                <img src="{{post.header-img}}" alt="img/guyu.jpg">
-                <div class="uk-thumbnail-caption">{{ post.title }} </div>
-                </a>
-
-        	{% endfor %}
-
-	        </div><!-- /.tiles -->
-             </div>
-    
-
-      </div>
-    </div>
-</section>
 
