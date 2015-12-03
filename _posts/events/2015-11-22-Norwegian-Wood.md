@@ -11,6 +11,9 @@ header-img: img/2015-11-22/norwegianwood.jpg
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/videoseries?list=PLbwb8x7jMTXLVAQAuqMJxfsxKGhRhWwXd" frameborder="0" allowfullscreen></iframe>
 
+### 分享Slides  
+<https://goo.gl/0JJHux>
+
 ## 分享人: Tanya
 
 曾任湾区新城中文电台（FM92.3，AM1450）《汤雅读书室》《晨间新闻》主持人、制作人。现任旧金山ELI语言学院教务主管，业余为《创世电视》《海外校园》撰稿。  
