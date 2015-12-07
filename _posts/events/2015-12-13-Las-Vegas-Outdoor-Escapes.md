@@ -22,7 +22,7 @@ src="https://www.google.com/maps/embed/v1/place?q=3777%20Stevens%20Creek%20Blvd%
 
 ## 分享人: 丁毅
 
-湾灣區工程師，酷愛讀書、遠足，以筆名Stuart Dewey（受Family Guy裡的Stewie啟發而得來）自助出版了旅遊手冊Las Vegas Outdoor Escapes。
+灣區工程師，酷愛讀書、遠足，以筆名Stuart Dewey（受Family Guy裡的Stewie啟發而得來）自助出版了旅遊手冊Las Vegas Outdoor Escapes。
 
 ## 分享书目: [Las Vegas Outdoor Escapes](http://www.amazon.com/Las-Vegas-Outdoor-Escapes-Adventures-ebook/dp/B00LHKKNSQ)
 
