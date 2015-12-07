@@ -13,7 +13,7 @@ header-img: http://www.sceniclasvegas.com/Red_Rock-04b.jpg
 
 ## 时间和地址
 
-12月13日，周日下午4:30pm - 7:30pm  
+12月13日，周日下午4:00pm - 7:00pm  
 4th Floor, 3777 Stevens Creek Blvd  
 Santa Clara, CA 95051
 
