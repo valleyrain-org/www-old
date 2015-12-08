@@ -6,26 +6,10 @@ description: 野生动植物专家Yiwei和大家讲述湾区美洲狮的秘密�
 published: True
 header-img: http://www.wildlifehotline.com/wp-content/uploads/2012/02/10084785.jpg
 ---
+## 分享录像
 
-## 报名链接
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/SBl8HL7G924" frameborder="0" allowfullscreen></iframe>
 
-<div style="width:100%; text-align:left;" ><iframe  src="//eventbrite.com/tickets-external?eid=19795432672&ref=etckt" frameborder="0" height="300" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe></div>
-
-## 时间和地址
-
-12月6日，周日下午4:30pm - 7:30pm  
-@4th Floor, 3777 Stevens Creek Blvd  
-Santa Clara, CA 95051
-
-<iframe width="100%" height="180" frameborder="0" style="border:0"
-src="https://www.google.com/maps/embed/v1/place?q=3777%20Stevens%20Creek%20Blvd%20Santa%20Clara%2C%20CA%2095054&key=AIzaSyBU8Fpde0IWAvSPYuvrpcjOHm_8scuCusk" allowfullscreen></iframe>
-
-
-## 相关影像资料：
-
-###Mountain Lions Caught on Camera in San Francisco Bay Area
-
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/8DvnZYTwJu8" frameborder="0" allowfullscreen></iframe>
 
 ## 分享人: Yiwei Wang 
 
@@ -37,9 +21,14 @@ Personal website : [https://sites.google.com/site/ywang82/home](https://sites.go
 As humans continue to take over wild spaces and forests, large carnivores are often the first species to lose their habitats and go extinct. Yet in the mountains above Silicon Valley, the mountain lion continues to make its living in the shadows, unseen by the millions of people who live and work just a couple of miles away. How did the mountain lion survive and learn to live alongside humans when most large predators have been driven to extinction in California and the United States? Come learn about the secret lives of mountain lions in the Santa Cruz Mountains and about the important role they play in our ecosystem. Scientists today are using new technologies, such as those found inside smart phones, to better understand mountain lion behavior and to study how they are able to survive in a changing environment.
 
 ## 参考链接
-A good essay to read if people want to read is "the trouble with wilderness" by William Cronin. 
-[http://www.williamcronon.net/writing/Trouble_with_Wilderness_Main.html](http://www.williamcronon.net/writing/Trouble_with_Wilderness_Main.html)
+A good essay to read if people want to read is "[the trouble with wilderness](http://www.williamcronon.net/writing/Trouble_with_Wilderness_Main.html)" by William Cronin. 
 
 [A UC Santa Cruz mountain lion habitat fragmentation study.](http://santacruzpumas.org)
 
+## 时间和地址
 
+12月6日，周日下午4:30pm - 7:30pm  
+@4th Floor, 3777 Stevens Creek Blvd  
+Santa Clara, CA 95051
+
+<iframe width="100%" height="180" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=3777%20Stevens%20Creek%20Blvd%20Santa%20Clara%2C%20CA%2095054&key=AIzaSyBU8Fpde0IWAvSPYuvrpcjOHm_8scuCusk" allowfullscreen></iframe>
