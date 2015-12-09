@@ -255,6 +255,14 @@ hr.small {
     font-size: 36px;
   }
 }
+
+section {
+	margin-bottom: 50px;
+}
+
+.uk-slidenav-position {
+  margin-top: 45px;
+}
 .section-heading {
   font-size: 36px;
   margin-top: 60px;
