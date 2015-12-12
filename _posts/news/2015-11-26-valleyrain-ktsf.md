@@ -3,7 +3,7 @@ layout: post
 title: Raymond，Kelly代表谷雨书苑团队接受KTSF26台采访
 category: news
 description: 谷雨书苑团队代表接受KTSF26台采访
-header-img: img/guyu.jpg 
+header-img: img/guyuteam.jpg
 ---
 
 ## 新闻采访视频
